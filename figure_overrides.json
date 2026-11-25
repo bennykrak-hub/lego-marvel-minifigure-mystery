@@ -1,0 +1,4327 @@
+{
+  "agent coulson black tie|2026": {
+    "role": "Civilian"
+  },
+  "agent coulson black tie": {
+    "role": "Civilian"
+  },
+  "alexei shostakov red guardian|2026": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "alexei shostakov red guardian": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "anti venom|2026": {
+    "role": "Villain"
+  },
+  "boomerang|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "boomerang": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "bucky barnes winter soldier|2026": {
+    "role": "Hero"
+  },
+  "bucky barnes winter soldier": {
+    "role": "Hero"
+  },
+  "captain america printed arms|2026": {
+    "role": "Hero"
+  },
+  "captain america printed arms": {
+    "role": "Hero"
+  },
+  "captain america sam wilson dual molded legs neck bracket|2026": {
+    "role": "Hero"
+  },
+  "captain america sam wilson dual molded legs neck bracket": {
+    "role": "Hero"
+  },
+  "dodc guard|2026": {
+    "role": "Civilian"
+  },
+  "dodc guard": {
+    "role": "Civilian"
+  },
+  "doctor doom|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor doom": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor doom cape neck armor|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor doom cape neck armor": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus dark green outfit black goggles|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus dark green outfit black goggles": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus medium legs|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus medium legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ghost rider|2026": {
+    "role": "Hero"
+  },
+  "ghost rider": {
+    "role": "Hero"
+  },
+  "green goblin medium legs tricorn|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin medium legs tricorn": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "gwen stacy spider gwen medium legs|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy spider gwen medium legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy spider gwen medium legs bicorn|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy spider gwen medium legs bicorn": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "hawkeye black outfit|2026": {
+    "role": "Hero"
+  },
+  "hawkeye black outfit": {
+    "role": "Hero"
+  },
+  "hotdog vendor|2026": {
+    "role": "Civilian"
+  },
+  "hotdog vendor": {
+    "role": "Civilian"
+  },
+  "hulk big fig olive green black hair removable head reddish brown pants dark green eyes|2026": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig olive green black hair removable head reddish brown pants dark green eyes": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig olive green black hair removable head sand blue pants red eyes|2026": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig olive green black hair removable head sand blue pants red eyes": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron hulk|2026": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron hulk": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron man mark 3 armor sunglasses|2026": {
+    "role": "Hero"
+  },
+  "iron man mark 3 armor sunglasses": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor sunglasses|2026": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor sunglasses": {
+    "role": "Hero"
+  },
+  "iron man medium legs|2026": {
+    "role": "Hero"
+  },
+  "iron man medium legs": {
+    "role": "Hero"
+  },
+  "ironheart helmet short legs|2026": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ironheart helmet short legs": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "j jonah jameson dark blue suit light bluish gray hair|2026": {
+    "role": "Civilian"
+  },
+  "j jonah jameson dark blue suit light bluish gray hair": {
+    "role": "Civilian"
+  },
+  "jonathan storm human torch|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "jonathan storm human torch": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "kurt wagner nightcrawler|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "kurt wagner nightcrawler": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "loki rubber cape pearl gold outfit|2026": {
+    "role": "Villain"
+  },
+  "loki rubber cape pearl gold outfit": {
+    "role": "Villain"
+  },
+  "magneto rubber cape|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "maria hill dark blue outfit|2026": {
+    "role": "Civilian"
+  },
+  "maria hill dark blue outfit": {
+    "role": "Civilian"
+  },
+  "miles morales bicorn|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "miles morales bicorn": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "mysterio green outfit opal trans light blue helmet plastic cape|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio green outfit opal trans light blue helmet plastic cape": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "nick fury long coat dark bluish gray legs print|2026": {
+    "role": "Civilian",
+    "legs": "Yes"
+  },
+  "nick fury long coat dark bluish gray legs print": {
+    "role": "Civilian",
+    "legs": "Yes"
+  },
+  "raven darkholme mystique|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "raven darkholme mystique": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "reed richards mr fantastic long legs|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "reed richards mr fantastic long legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "rhino light bluish gray horn|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "rhino light bluish gray horn": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "rhino white horn metallic blue chest plate|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "rhino white horn metallic blue chest plate": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "robert reynolds sentry|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "robert reynolds sentry": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "sandman sand form|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman sand form": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scorpion dark green suit|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scorpion dark green suit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scott summers cyclops|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "scott summers cyclops": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales large red spider symbol|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales large red spider symbol": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man 2099|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man 2099": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man medium legs|2026": {
+    "role": "Hero"
+  },
+  "spider man medium legs bicorn|2026": {
+    "role": "Hero"
+  },
+  "spider man medium legs bicorn": {
+    "role": "Hero"
+  },
+  "spider man suit with blue ribs plain legs|2026": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "spider man suit with blue ribs plain legs": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "tarantula|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "tarantula": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "the thing benjamin grimm shorts|2026": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "the thing benjamin grimm shorts": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "thor bare arms|2026": {
+    "role": "Hero"
+  },
+  "thor bare arms": {
+    "role": "Hero"
+  },
+  "tombstone|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "tombstone": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ultron iron man and his awesome friends|2026": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "ultron iron man and his awesome friends": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "venom|2026": {
+    "role": "Villain"
+  },
+  "venom": {
+    "role": "Villain"
+  },
+  "venom black tentacles tan teeth|2026": {
+    "role": "Villain"
+  },
+  "venom black tentacles tan teeth": {
+    "role": "Villain"
+  },
+  "venomized captain america|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "venomized captain america": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "winter soldier black eyes|2026": {
+    "role": "Hero"
+  },
+  "winter soldier black eyes": {
+    "role": "Hero"
+  },
+  "wolverine venomized|2026": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "wolverine venomized": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "yelena belova black widow|2026": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "yelena belova black widow": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "aldrich killian|2025": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ant man|2025": {
+    "role": "Hero"
+  },
+  "ant man": {
+    "role": "Hero"
+  },
+  "anti venom|2025": {
+    "role": "Villain"
+  },
+  "aunt may light bluish gray sweater bright light blue legs|2025": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "aunt may light bluish gray sweater bright light blue legs": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "black panther|2025": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit printed legs 85974 hair|2025": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "black widow black jumpsuit printed legs 85974 hair": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "captain america light bluish grey arms|2025": {
+    "role": "Hero"
+  },
+  "captain america light bluish grey arms": {
+    "role": "Hero"
+  },
+  "captain america no wings on helmet|2025": {
+    "role": "Hero"
+  },
+  "captain america no wings on helmet": {
+    "role": "Hero"
+  },
+  "doctor octopus four pointed tentacles|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus four pointed tentacles": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "eddie brock venom|2025": {
+    "role": "Villain"
+  },
+  "eddie brock venom": {
+    "role": "Villain"
+  },
+  "ghost spider spider gwen medium legs lime spider print|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs lime spider print": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen open front hood magenta hands|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen open front hood magenta hands": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "green goblin dark purple hood|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin dark purple hood": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hobgoblin rubber cape|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hobgoblin rubber cape": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hulk dark bluish grey legs|2025": {
+    "role": "Hero"
+  },
+  "hulk dark bluish grey legs": {
+    "role": "Hero"
+  },
+  "hulk yellow helmet|2025": {
+    "role": "Hero"
+  },
+  "hulk yellow helmet": {
+    "role": "Hero"
+  },
+  "iron man mark 4 armor|2025": {
+    "role": "Hero"
+  },
+  "iron man mark 4 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 46 armor hud on face|2025": {
+    "role": "Hero"
+  },
+  "iron man mark 46 armor hud on face": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor hud on face|2025": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor hud on face": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor trans light blue head|2025": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor trans light blue head": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms angular helmet|2025": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms angular helmet": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor helmet and visor|2025": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor helmet and visor": {
+    "role": "Hero"
+  },
+  "iron patriot mk 2|2025": {
+    "role": "Hero"
+  },
+  "iron patriot mk 2": {
+    "role": "Hero"
+  },
+  "iron patriot mk1 grey neck bracket|2025": {
+    "role": "Hero"
+  },
+  "iron patriot mk1 grey neck bracket": {
+    "role": "Hero"
+  },
+  "iron spider man plain legs 3171 claws|2025": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "No"
+  },
+  "iron spider man plain legs 3171 claws": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "No"
+  },
+  "iron spider man plain legs 53451 claws|2025": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "No"
+  },
+  "iron spider man plain legs 53451 claws": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "No"
+  },
+  "j jonah jameson dark blue suit reddish brown hair|2025": {
+    "role": "Civilian"
+  },
+  "j jonah jameson dark blue suit reddish brown hair": {
+    "role": "Civilian"
+  },
+  "johnny storm human torch|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "johnny storm human torch": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "kraven the hunter reddish brown legs|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "kraven the hunter reddish brown legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mary jane medium nougat jacket sand blue legs red hair|2025": {
+    "role": "Civilian"
+  },
+  "mary jane medium nougat jacket sand blue legs red hair": {
+    "role": "Civilian"
+  },
+  "norman osborn black suit|2025": {
+    "role": "Villain"
+  },
+  "norman osborn black suit": {
+    "role": "Villain"
+  },
+  "officer jefferson|2025": {
+    "role": "Civilian"
+  },
+  "officer jefferson": {
+    "role": "Civilian"
+  },
+  "pepper potts reddish orange hair|2025": {
+    "role": "Civilian"
+  },
+  "pepper potts reddish orange hair": {
+    "role": "Civilian"
+  },
+  "quicksilver sand blue torso|2025": {
+    "role": "Hero"
+  },
+  "quicksilver sand blue torso": {
+    "role": "Hero"
+  },
+  "red hulk|2025": {
+    "role": "Villain"
+  },
+  "red hulk": {
+    "role": "Villain"
+  },
+  "reed richards mr fantastic|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "reed richards mr fantastic": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "rocket raccoon dark blue jumpsuit|2025": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon dark blue jumpsuit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "scarlet witch|2025": {
+    "role": "Hero"
+  },
+  "scarlet witch": {
+    "role": "Hero"
+  },
+  "spider man miles morales black hands|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man spidey medium legs lime spider print|2025": {
+    "role": "Hero"
+  },
+  "spider man spidey medium legs lime spider print": {
+    "role": "Hero"
+  },
+  "spider man suit with detailed black trim plain legs|2025": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "spider man suit with detailed black trim plain legs": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "spider man torn suit|2025": {
+    "role": "Hero"
+  },
+  "spider man torn suit": {
+    "role": "Hero"
+  },
+  "spider woman|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider woman": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider woman julia carpenter|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider woman julia carpenter": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium black legs lime spider|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium black legs lime spider": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "susan storm invisible woman|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "susan storm invisible woman": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "thanos dark blue and gold outfit dark blue arms|2025": {
+    "role": "Villain"
+  },
+  "thanos dark blue and gold outfit dark blue arms": {
+    "role": "Villain"
+  },
+  "thanos gold shoulder guard|2025": {
+    "role": "Villain"
+  },
+  "thanos gold shoulder guard": {
+    "role": "Villain"
+  },
+  "the spot|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "the spot": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "the thing benjamin grimm|2025": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "the thing benjamin grimm": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "thor dark tan hair fabric cape|2025": {
+    "role": "Hero"
+  },
+  "thor dark tan hair fabric cape": {
+    "role": "Hero"
+  },
+  "thor dark tan hair rubber cape|2025": {
+    "role": "Hero"
+  },
+  "thor dark tan hair rubber cape": {
+    "role": "Hero"
+  },
+  "trapster|2025": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "trapster": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "venom with two identical tentacles|2025": {
+    "role": "Villain"
+  },
+  "venom with two identical tentacles": {
+    "role": "Villain"
+  },
+  "war machine trans clear neck bracket pearl titanium hands|2025": {
+    "role": "Hero"
+  },
+  "war machine trans clear neck bracket pearl titanium hands": {
+    "role": "Hero"
+  },
+  "winter soldier black suit|2025": {
+    "role": "Hero"
+  },
+  "winter soldier black suit": {
+    "role": "Hero"
+  },
+  "baby groot|2024": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "baby groot": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "bishop|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "bishop": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "captain america neck bracket|2024": {
+    "role": "Hero"
+  },
+  "captain america neck bracket": {
+    "role": "Hero"
+  },
+  "captain america sam wilson dual molded legs|2024": {
+    "role": "Hero"
+  },
+  "captain america sam wilson dual molded legs": {
+    "role": "Hero"
+  },
+  "cyclops hair|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "cyclops hair": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "cyclops hair printed legs|2024": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "cyclops hair printed legs": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "drax|2024": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "electro amazing spider man with small lightning|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "electro amazing spider man with small lightning": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "falcon joaquin torres|2024": {
+    "role": "Hero"
+  },
+  "falcon joaquin torres": {
+    "role": "Hero"
+  },
+  "fire demon|2024": {
+    "role": "Villain"
+  },
+  "fire demon": {
+    "role": "Villain"
+  },
+  "gambit|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gambit": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gamora|2024": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gamora": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "green goblin short legs|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin short legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "gwen stacy ghost spider short legs|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy ghost spider short legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy ghost spider short legs bat wings|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy ghost spider short legs bat wings": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "hawkeye black suit quiver|2024": {
+    "role": "Hero"
+  },
+  "hawkeye black suit quiver": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair removable head dark bluish grey pants angry|2024": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair removable head dark bluish grey pants angry": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig olive green black hair removable head sand blue pants|2024": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig olive green black hair removable head sand blue pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk dark purple pants dual molded legs smile|2024": {
+    "role": "Hero"
+  },
+  "hulk dark purple pants dual molded legs smile": {
+    "role": "Hero"
+  },
+  "hydra trooper|2024": {
+    "role": "Villain"
+  },
+  "hydra trooper": {
+    "role": "Villain"
+  },
+  "hydra trooper neck bracket|2024": {
+    "role": "Villain"
+  },
+  "hydra trooper neck bracket": {
+    "role": "Villain"
+  },
+  "iceman|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "iceman": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "iron legion dark blue head|2024": {
+    "role": "Hero"
+  },
+  "iron legion dark blue head": {
+    "role": "Hero"
+  },
+  "iron man spidey his amazing friends|2024": {
+    "role": "Hero"
+  },
+  "iron man spidey his amazing friends": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor red panels|2024": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor red panels": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor hair|2024": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor hair": {
+    "role": "Hero"
+  },
+  "jean grey bright light orange suit|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "jean grey bright light orange suit": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "loki rubber cape|2024": {
+    "role": "Villain"
+  },
+  "loki rubber cape": {
+    "role": "Villain"
+  },
+  "magneto magenta outfit|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "magneto magenta outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "magneto rubber cape|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "max dillon electro|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "max dillon electro": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "miles morales medium legs|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "miles morales medium legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "professor charles xavier dark blue suit|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "professor charles xavier dark blue suit": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "red hulk big fig rotatable head|2024": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "red hulk big fig rotatable head": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "rocket raccoon reddish brown arms|2024": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon reddish brown arms": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rogue|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "rogue": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ronan the accuser dark azure skin|2024": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ronan the accuser dark azure skin": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ruth bat seraph|2024": {
+    "role": "Hero"
+  },
+  "ruth bat seraph": {
+    "role": "Hero"
+  },
+  "spider man miles morales dark red hoodie|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales dark red hoodie": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man medium legs|2024": {
+    "role": "Hero"
+  },
+  "star lord peter quill|2024": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord peter quill": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "storm white suit umber brown head|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "storm white suit umber brown head": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "the lizard|2024": {
+    "role": "Villain"
+  },
+  "the lizard": {
+    "role": "Villain"
+  },
+  "venom doc ock|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "venom doc ock": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "venom green goblin|2024": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "venom green goblin": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "war machine pearl titanium armor|2024": {
+    "role": "Hero"
+  },
+  "war machine pearl titanium armor": {
+    "role": "Hero"
+  },
+  "wolverine hair yellow x men suit plain arms|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine hair yellow x men suit plain arms": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine mask yellow x men suit plain arms|2024": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine mask yellow x men suit plain arms": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "zola|2024": {
+    "role": "Villain"
+  },
+  "zola": {
+    "role": "Villain"
+  },
+  "adam warlock|2023": {
+    "role": "Hero"
+  },
+  "adam warlock": {
+    "role": "Hero"
+  },
+  "alexander pierce|2023": {
+    "role": "Civilian"
+  },
+  "alexander pierce": {
+    "role": "Civilian"
+  },
+  "black panther medium legs|2023": {
+    "role": "Hero"
+  },
+  "black panther medium legs": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit plain legs|2023": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "black widow black jumpsuit plain legs": {
+    "role": "Hero",
+    "legs": "No"
+  },
+  "black widow black jumpsuit printed legs 20877 hair|2023": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "black widow black jumpsuit printed legs 20877 hair": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "black widow pearl dark gray jumpsuit medium azure highlights|2023": {
+    "role": "Hero"
+  },
+  "black widow pearl dark gray jumpsuit medium azure highlights": {
+    "role": "Hero"
+  },
+  "bruce banner hulk black jacket|2023": {
+    "role": "Hero"
+  },
+  "bruce banner hulk black jacket": {
+    "role": "Hero"
+  },
+  "captain america with dark blue suit helmet|2023": {
+    "role": "Hero"
+  },
+  "captain america with dark blue suit helmet": {
+    "role": "Hero"
+  },
+  "captain marvel mid length tan hair|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel mid length tan hair": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "doctor octopus black sunglasses|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus black sunglasses": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus female light bluish gray arms|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "doctor octopus female light bluish gray arms": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr erik selvig|2023": {
+    "role": "Civilian"
+  },
+  "dr erik selvig": {
+    "role": "Civilian"
+  },
+  "drax dark blue outfit|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "drax dark blue outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "electro amazing spider man with lightning|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "electro amazing spider man with lightning": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "falcon neck bracket printed legs|2023": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "falcon neck bracket printed legs": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "flint marco sandman|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "flint marco sandman": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "friendly neighborhood spider man|2023": {
+    "role": "Hero"
+  },
+  "friendly neighborhood spider man": {
+    "role": "Hero"
+  },
+  "ghost rider white head|2023": {
+    "role": "Hero"
+  },
+  "ghost rider white head": {
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs bubble helmet|2023": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs bubble helmet": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs white spider print|2023": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs white spider print": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "green goblin hair|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin hair": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "groot teen with shoulder pads|2023": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "groot teen with shoulder pads": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hawkeye dark tan hair dark red hand|2023": {
+    "role": "Hero"
+  },
+  "hawkeye dark tan hair dark red hand": {
+    "role": "Hero"
+  },
+  "helen cho|2023": {
+    "role": "Civilian"
+  },
+  "helen cho": {
+    "role": "Civilian"
+  },
+  "hulk|2023": {
+    "role": "Hero"
+  },
+  "hulk": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair removable head sand blue pants smiling|2023": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair removable head sand blue pants smiling": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron man mark 6 armor battle damage|2023": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor battle damage": {
+    "role": "Hero"
+  },
+  "iron man mark 7 armor red panels|2023": {
+    "role": "Hero"
+  },
+  "iron man mark 7 armor red panels": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor full helmet|2023": {
+    "role": "Hero"
+  },
+  "iron man pearl gold arms round arc reactor full helmet": {
+    "role": "Hero"
+  },
+  "kevin feige dark blue torso|2023": {
+    "role": "Civilian"
+  },
+  "kevin feige dark blue torso": {
+    "role": "Civilian"
+  },
+  "loki pearl titanium outfit|2023": {
+    "role": "Villain"
+  },
+  "loki pearl titanium outfit": {
+    "role": "Villain"
+  },
+  "mj striped sweater|2023": {
+    "role": "Civilian"
+  },
+  "mj striped sweater": {
+    "role": "Civilian"
+  },
+  "mantis dark blue outfit|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "mantis dark blue outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "morbius|2023": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "morbius": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ms marvel|2023": {
+    "role": "Hero"
+  },
+  "ms marvel": {
+    "role": "Hero"
+  },
+  "nebula dark blue outfit|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula dark blue outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ned leeds red letterman jacket|2023": {
+    "role": "Civilian"
+  },
+  "ned leeds red letterman jacket": {
+    "role": "Civilian"
+  },
+  "okoye gold shoulder armor|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "okoye gold shoulder armor": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "pepper potts black suit|2023": {
+    "role": "Civilian"
+  },
+  "pepper potts black suit": {
+    "role": "Civilian"
+  },
+  "photon monica rambeau|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "photon monica rambeau": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon dark blue outfit reddish brown fur|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon dark blue outfit reddish brown fur": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon tan jacket|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon tan jacket": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "scarlet witch skirt|2023": {
+    "role": "Hero"
+  },
+  "scarlet witch skirt": {
+    "role": "Hero"
+  },
+  "spider man miles morales red hands gray face webbing|2023": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales red hands gray face webbing": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man spidey medium legs white spider print|2023": {
+    "role": "Hero"
+  },
+  "spider man spidey medium legs white spider print": {
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium black legs|2023": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium black legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium red legs bubble helmet|2023": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium red legs bubble helmet": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "star lord peter quill dark blue outfit|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord peter quill dark blue outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thanos big fig head angry big fig|2023": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos big fig head angry big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos dark blue and gold outfit gold helmet|2023": {
+    "role": "Villain"
+  },
+  "thanos dark blue and gold outfit gold helmet": {
+    "role": "Villain"
+  },
+  "thanos dark blue and gold outfit medium lavender arms|2023": {
+    "role": "Villain"
+  },
+  "thanos dark blue and gold outfit medium lavender arms": {
+    "role": "Villain"
+  },
+  "the amazing spider man|2023": {
+    "role": "Hero"
+  },
+  "the amazing spider man": {
+    "role": "Hero"
+  },
+  "the wasp hope van dyne foil wings|2023": {
+    "role": "Hero"
+  },
+  "the wasp hope van dyne foil wings": {
+    "role": "Hero"
+  },
+  "thor tan hair black armor red cape|2023": {
+    "role": "Hero"
+  },
+  "tony stark neck bracket|2023": {
+    "role": "Civilian"
+  },
+  "tony stark neck bracket": {
+    "role": "Civilian"
+  },
+  "tony stark shield agent disguise|2023": {
+    "role": "Civilian"
+  },
+  "tony stark shield agent disguise": {
+    "role": "Civilian"
+  },
+  "ultron mark 1 dark blue head|2023": {
+    "role": "Villain"
+  },
+  "ultron mark 1 dark blue head": {
+    "role": "Villain"
+  },
+  "valkyrie light bluish gray outfit blue cape|2023": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "valkyrie light bluish gray outfit blue cape": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "vision trans light blue legs|2023": {
+    "role": "Hero"
+  },
+  "vision trans light blue legs": {
+    "role": "Hero"
+  },
+  "america chavez|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "america chavez": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "attuma|2022": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "attuma": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "dead strange|2022": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "dead strange": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "doctor strange plastic cape high medallion|2022": {
+    "role": "Hero"
+  },
+  "doctor strange plastic cape high medallion": {
+    "role": "Hero"
+  },
+  "dr octopus doc ock female flat silver arms|2022": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock female flat silver arms": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ebony maw light bluish gray head|2022": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ebony maw light bluish gray head": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ghost spider spider gwen medium legs|2022": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen medium legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gorr|2022": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "gorr": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "green goblin plain legs|2022": {
+    "universe": "Comic",
+    "role": "Villain",
+    "legs": "No"
+  },
+  "green goblin plain legs": {
+    "universe": "Comic",
+    "role": "Villain",
+    "legs": "No"
+  },
+  "green goblin medium legs|2022": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin medium legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hulk dark purple pants dual molded legs smirk|2022": {
+    "role": "Hero"
+  },
+  "hulk dark purple pants dual molded legs smirk": {
+    "role": "Hero"
+  },
+  "iron man mark 25 armor striker thumper armor|2022": {
+    "role": "Hero"
+  },
+  "iron man mark 25 armor striker thumper armor": {
+    "role": "Hero"
+  },
+  "iron man mark 3 armor trans light blue head|2022": {
+    "role": "Hero"
+  },
+  "iron man mark 3 armor trans light blue head": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor pearl gold legs|2022": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor pearl gold legs": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor 80429 helmet|2022": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor 80429 helmet": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms trans light blue head|2022": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms trans light blue head": {
+    "role": "Hero"
+  },
+  "ironheart mk1|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ironheart mk1": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ironheart mk2|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ironheart mk2": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "king namor|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "king namor": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "king valkyrie|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "king valkyrie": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg fur collar|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg fur collar": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg shoulder armour|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg shoulder armour": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "m baku|2022": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "m baku": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "miek mech body|2022": {
+    "universe": "MCU",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "miek mech body": {
+    "universe": "MCU",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "mighty thor|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "mighty thor": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ms marvel medium legs|2022": {
+    "role": "Hero"
+  },
+  "ms marvel medium legs": {
+    "role": "Hero"
+  },
+  "nakia|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "okoye|2022": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rhino white horn|2022": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "rhino white horn": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scarlet witch with detailed tiara|2022": {
+    "role": "Hero"
+  },
+  "scarlet witch with detailed tiara": {
+    "role": "Hero"
+  },
+  "shuri black panther suit hair|2022": {
+    "role": "Hero"
+  },
+  "shuri black panther suit hair": {
+    "role": "Hero"
+  },
+  "shuri black panther suit mask|2022": {
+    "role": "Hero"
+  },
+  "shuri black panther suit mask": {
+    "role": "Hero"
+  },
+  "sinister strange|2022": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "sinister strange": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "spider man spidey medium legs|2022": {
+    "role": "Hero"
+  },
+  "spider man spidey medium legs": {
+    "role": "Hero"
+  },
+  "spider man suit with detailed black trim printed legs|2022": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "spider man suit with detailed black trim printed legs": {
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "spin spider man miles morales medium red legs|2022": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spin spider man miles morales medium red legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "thor long hair blue suit|2022": {
+    "role": "Hero"
+  },
+  "thor long hair blue suit": {
+    "role": "Hero"
+  },
+  "thor tan hair black armor red cape|2022": {
+    "role": "Hero"
+  },
+  "tony stark transforming into iron man dark bluish grey torso|2022": {
+    "role": "Civilian"
+  },
+  "tony stark transforming into iron man dark bluish grey torso": {
+    "role": "Civilian"
+  },
+  "war machine dark bluish gray neck bracket|2022": {
+    "role": "Hero"
+  },
+  "war machine dark bluish gray neck bracket": {
+    "role": "Hero"
+  },
+  "whiplash|2022": {
+    "role": "Villain"
+  },
+  "whiplash": {
+    "role": "Villain"
+  },
+  "wolverine mask blue hands|2022": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine mask blue hands": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wong plain legs|2022": {
+    "legs": "No"
+  },
+  "wong plain legs": {
+    "legs": "No"
+  },
+  "ajak|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ajak": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "amber grant|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "amber grant": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "aunt may light bluish gray sweater|2021": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "aunt may light bluish gray sweater": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "ben urich|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "ben urich": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "betty brant|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "betty brant": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "black cat|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "black cat": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "black panther|2021": {
+    "role": "Hero"
+  },
+  "blade|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "blade": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "captain america mask|2021": {
+    "role": "Hero"
+  },
+  "captain america mask": {
+    "role": "Hero"
+  },
+  "captain carter|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain carter": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel short tan hair|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel short tan hair": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "carnage with short tentacles|2021": {
+    "role": "Villain"
+  },
+  "carnage with short tentacles": {
+    "role": "Villain"
+  },
+  "carnage two long and two short tentacles|2021": {
+    "role": "Villain"
+  },
+  "carnage two long and two short tentacles": {
+    "role": "Villain"
+  },
+  "chitauri|2021": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "daredevil|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "daredevil": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "death dealer|2021": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "death dealer": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "doctor strange plastic cape|2021": {
+    "role": "Hero"
+  },
+  "doctor strange plastic cape": {
+    "role": "Hero"
+  },
+  "dr octopus doc ock dark green outfit|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock dark green outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock dark green outfit large arms|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock dark green outfit large arms": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock dark green outfit neck bracket|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock dark green outfit neck bracket": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "druig|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "druig": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "firestar|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "firestar": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost rider flat silver head|2021": {
+    "role": "Hero"
+  },
+  "ghost rider flat silver head": {
+    "role": "Hero"
+  },
+  "ghost spider spider gwen open front hood white hands|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen open front hood white hands": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gilgamesh|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gilgamesh": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "green goblin|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "groot teen|2021": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "gwen stacy|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "gwen stacy": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "hydra agent|2021": {
+    "role": "Villain"
+  },
+  "hydra agent": {
+    "role": "Villain"
+  },
+  "ikaris|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ikaris": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "iron man mark 3 armor black hair|2021": {
+    "role": "Hero"
+  },
+  "iron man mark 3 armor black hair": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor black hair|2021": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor black hair": {
+    "role": "Hero"
+  },
+  "iron spider with neck bracket and two piece mechanical arms|2021": {
+    "universe": "Comic"
+  },
+  "iron spider with neck bracket and two piece mechanical arms": {
+    "universe": "Comic"
+  },
+  "iron venom|2021": {
+    "role": "Villain"
+  },
+  "j jonah jameson black suit dark bluish gray hair|2021": {
+    "role": "Civilian"
+  },
+  "j jonah jameson black suit dark bluish gray hair": {
+    "role": "Civilian"
+  },
+  "katy|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "katy": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "kingo|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "kingo": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "korg": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "mj dark bluish gray plaid shirt|2021": {
+    "role": "Civilian"
+  },
+  "mj dark bluish gray plaid shirt": {
+    "role": "Civilian"
+  },
+  "makkari|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "makkari": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "mantis|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "miek|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "miek": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "mysterio green outfit green energy cloud|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio green outfit green energy cloud": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio green outfit opal trans light blue helmet|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio green outfit opal trans light blue helmet": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio pearl gold and dark green outfit|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio pearl gold and dark green outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "obadiah stane|2021": {
+    "role": "Civilian"
+  },
+  "obadiah stane": {
+    "role": "Civilian"
+  },
+  "pepper potts black suit ponytail|2021": {
+    "role": "Civilian"
+  },
+  "pepper potts black suit ponytail": {
+    "role": "Civilian"
+  },
+  "peter parker spider man suit|2021": {
+    "role": "Hero"
+  },
+  "peter parker spider man suit": {
+    "role": "Hero"
+  },
+  "peter parker red jacket|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "peter parker red jacket": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "phastos|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "phastos": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "pork grind|2021": {
+    "universe": "Comic"
+  },
+  "pork grind": {
+    "universe": "Comic"
+  },
+  "razor fist|2021": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "razor fist": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "red skull|2021": {
+    "role": "Villain"
+  },
+  "robbie robertson|2021": {
+    "role": "Civilian"
+  },
+  "robbie robertson": {
+    "role": "Civilian"
+  },
+  "rocket raccoon dark bluish gray outfit|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon dark bluish gray outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ron barney|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "ron barney": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "sandman swirling dirt lower body with green sweater|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman swirling dirt lower body with green sweater": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scarlet witch smile|2021": {
+    "role": "Hero"
+  },
+  "scarlet witch smile": {
+    "role": "Hero"
+  },
+  "sersi|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "sersi": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "shang chi|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "shang chi": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "shuri|2021": {
+    "role": "Hero"
+  },
+  "spider man miles morales dark red hoodie dual molded legs|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales dark red hoodie dual molded legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man black and red outfit|2021": {
+    "role": "Hero"
+  },
+  "spider man black and red outfit": {
+    "role": "Hero"
+  },
+  "spider man black and yellow outfit|2021": {
+    "role": "Hero"
+  },
+  "spider man black and yellow outfit": {
+    "role": "Hero"
+  },
+  "spider man printed arms|2021": {
+    "role": "Hero"
+  },
+  "spider man printed arms": {
+    "role": "Hero"
+  },
+  "spider man printed arms red boots|2021": {
+    "role": "Hero"
+  },
+  "spider man printed arms red boots": {
+    "role": "Hero"
+  },
+  "spider man red black and gold outfit|2021": {
+    "role": "Hero"
+  },
+  "spider man red black and gold outfit": {
+    "role": "Hero"
+  },
+  "sprite|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "sprite": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord peter quill black boots|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord peter quill black boots": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "steve rogers|2021": {
+    "role": "Civilian"
+  },
+  "steve rogers": {
+    "role": "Civilian"
+  },
+  "taxi driver bernie|2021": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "taxi driver bernie": {
+    "universe": "Comic",
+    "role": "Civilian"
+  },
+  "thanos in dark blue and gold outfit plain legs|2021": {
+    "role": "Villain",
+    "legs": "No"
+  },
+  "thanos in dark blue and gold outfit plain legs": {
+    "role": "Villain",
+    "legs": "No"
+  },
+  "thanos big fig head mean grin big fig|2021": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos big fig head mean grin big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos pearl gold armor|2021": {
+    "role": "Villain"
+  },
+  "thanos pearl gold armor": {
+    "role": "Villain"
+  },
+  "the punisher|2021": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "the punisher": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "the watcher|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "the watcher": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thena|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thena": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thor bro thor fat thor|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thor bro thor fat thor": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thor flat silver helmet|2021": {
+    "role": "Hero"
+  },
+  "thor flat silver helmet": {
+    "role": "Hero"
+  },
+  "thor long dark tan hair|2021": {
+    "role": "Hero"
+  },
+  "thor long dark tan hair": {
+    "role": "Hero"
+  },
+  "tony stark|2021": {
+    "role": "Civilian"
+  },
+  "tony stark": {
+    "role": "Civilian"
+  },
+  "ultimate spider man|2021": {
+    "role": "Hero"
+  },
+  "ultimate spider man": {
+    "role": "Hero"
+  },
+  "valkyrie pearl dark gray outfit|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "valkyrie pearl dark gray outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "venom two long and two short tentacles|2021": {
+    "role": "Villain"
+  },
+  "venom two long and two short tentacles": {
+    "role": "Villain"
+  },
+  "vulture reddish brown jacket black helmet|2021": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vulture reddish brown jacket black helmet": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "wenwu|2021": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "wenwu": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "xialing|2021": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "xialing": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "aim agent|2020": {
+    "role": "Villain"
+  },
+  "aim agent": {
+    "role": "Villain"
+  },
+  "aim agent visor|2020": {
+    "role": "Villain"
+  },
+  "aim agent visor": {
+    "role": "Villain"
+  },
+  "aim agent with backpack|2020": {
+    "role": "Villain"
+  },
+  "aim agent with backpack": {
+    "role": "Villain"
+  },
+  "aim agent with backpack pins|2020": {
+    "role": "Villain"
+  },
+  "aim agent with backpack pins": {
+    "role": "Villain"
+  },
+  "aim agent with neck bracket|2020": {
+    "role": "Villain"
+  },
+  "aim agent with neck bracket": {
+    "role": "Villain"
+  },
+  "aim agent with neck bracket at front|2020": {
+    "role": "Villain"
+  },
+  "aim agent with neck bracket at front": {
+    "role": "Villain"
+  },
+  "armored truck driver with helmet|2020": {
+    "role": "Civilian"
+  },
+  "armored truck driver with helmet": {
+    "role": "Civilian"
+  },
+  "black panther with collar|2020": {
+    "role": "Hero"
+  },
+  "black panther with collar": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit gold belt|2020": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit gold belt": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit silver highlights|2020": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit silver highlights": {
+    "role": "Hero"
+  },
+  "black widow white jumpsuit dark bluish gray hands|2020": {
+    "role": "Hero"
+  },
+  "black widow white jumpsuit dark bluish gray hands": {
+    "role": "Hero"
+  },
+  "captain america in dark blue outfit with black hands and hair|2020": {
+    "role": "Hero"
+  },
+  "captain america in dark blue outfit with black hands and hair": {
+    "role": "Hero"
+  },
+  "captain marvel bright light yellow hair|2020": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel bright light yellow hair": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel red helmet with mohawk|2020": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel red helmet with mohawk": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "carnage|2020": {
+    "role": "Villain"
+  },
+  "carnage": {
+    "role": "Villain"
+  },
+  "dr octopus doc ock in green outfit with back arms with claws|2020": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock in green outfit with back arms with claws": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "falcon|2020": {
+    "role": "Hero"
+  },
+  "falcon": {
+    "role": "Hero"
+  },
+  "hawkeye in black and dark purple outfit with dark purple goggles and quiver|2020": {
+    "role": "Hero"
+  },
+  "hawkeye in black and dark purple outfit with dark purple goggles and quiver": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair magenta pants|2020": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair magenta pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron man mark 2 armor|2020": {
+    "role": "Hero"
+  },
+  "iron man mark 2 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 22 armor blazer hot rod armor|2020": {
+    "role": "Hero"
+  },
+  "iron man mark 22 armor blazer hot rod armor": {
+    "role": "Hero"
+  },
+  "iron man mark 30 armor tazer blue steel armor|2020": {
+    "role": "Hero"
+  },
+  "iron man mark 30 armor tazer blue steel armor": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor visor printed on helmet|2020": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor visor printed on helmet": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor visor printed on helmet plain trans clear head|2020": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor visor printed on helmet plain trans clear head": {
+    "role": "Hero"
+  },
+  "iron spider with neck bracket and one piece mechanical arms|2020": {
+    "universe": "Comic"
+  },
+  "iron spider with neck bracket and one piece mechanical arms": {
+    "universe": "Comic"
+  },
+  "iron venom|2020": {
+    "role": "Villain"
+  },
+  "loki dark green outfit|2020": {
+    "role": "Villain"
+  },
+  "loki dark green outfit": {
+    "role": "Villain"
+  },
+  "mysterio green outfit trans clear helmet|2020": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio green outfit trans clear helmet": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "nick fury in long black coat over gray sweater no line on hips|2020": {
+    "role": "Civilian"
+  },
+  "nick fury in long black coat over gray sweater no line on hips": {
+    "role": "Civilian"
+  },
+  "pepper potts rescue red armour|2020": {
+    "role": "Civilian"
+  },
+  "pepper potts rescue red armour": {
+    "role": "Civilian"
+  },
+  "red guardian|2020": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "red guardian": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "red skull|2020": {
+    "role": "Villain"
+  },
+  "spider ham|2020": {
+    "universe": "Comic"
+  },
+  "spider ham": {
+    "universe": "Comic"
+  },
+  "spider man noir without shirt tail|2020": {
+    "role": "Hero"
+  },
+  "spider man noir without shirt tail": {
+    "role": "Hero"
+  },
+  "taskmaster|2020": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "taskmaster": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "taskmaster hood|2020": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "taskmaster hood": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "thanos in dark blue and gold outfit|2020": {
+    "role": "Villain"
+  },
+  "thanos in dark blue and gold outfit": {
+    "role": "Villain"
+  },
+  "thor with printed cape front and pearl dark gray legs|2020": {
+    "role": "Hero"
+  },
+  "thor with printed cape front and pearl dark gray legs": {
+    "role": "Hero"
+  },
+  "thor red cape tan hair|2020": {
+    "role": "Hero"
+  },
+  "thor red cape tan hair": {
+    "role": "Hero"
+  },
+  "tony stark light bluish grey shirt|2020": {
+    "role": "Civilian"
+  },
+  "tony stark light bluish grey shirt": {
+    "role": "Civilian"
+  },
+  "venom arms on back|2020": {
+    "role": "Villain"
+  },
+  "venom arms on back": {
+    "role": "Villain"
+  },
+  "vulture in dark green outfit with lime wings|2020": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vulture in dark green outfit with lime wings": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "war machine black outfit with neck bracket|2020": {
+    "role": "Hero"
+  },
+  "war machine black outfit with neck bracket": {
+    "role": "Hero"
+  },
+  "yelena belova|2020": {
+    "universe": "MCU"
+  },
+  "yelena belova": {
+    "universe": "MCU"
+  },
+  "ant man scott lang white advanced tech quantum suit|2019": {
+    "role": "Hero"
+  },
+  "ant man scott lang white advanced tech quantum suit": {
+    "role": "Hero"
+  },
+  "aunt may in bright light blue sweater|2019": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "aunt may in bright light blue sweater": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "black widow white advanced tech quantum suit|2019": {
+    "role": "Hero"
+  },
+  "black widow white advanced tech quantum suit": {
+    "role": "Hero"
+  },
+  "captain america white advanced tech quantum suit|2019": {
+    "role": "Hero"
+  },
+  "captain america white advanced tech quantum suit": {
+    "role": "Hero"
+  },
+  "captain marvel in kree starforce uniform|2019": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel in kree starforce uniform": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel with medium nougat hair|2019": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel with medium nougat hair": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "carnage with long tentacles|2019": {
+    "role": "Villain"
+  },
+  "carnage with long tentacles": {
+    "role": "Villain"
+  },
+  "chitauri|2019": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "dock worker|2019": {
+    "role": "Civilian"
+  },
+  "dock worker": {
+    "role": "Civilian"
+  },
+  "dr octopus doc ock in green outfit with small back arms|2019": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock in green outfit with small back arms": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "firefighter with reddish brown skin and dark red fire helmet|2019": {
+    "role": "Civilian"
+  },
+  "firefighter with reddish brown skin and dark red fire helmet": {
+    "role": "Civilian"
+  },
+  "ghost spider spider gwen closed front hood|2019": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "ghost spider spider gwen closed front hood": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "green goblin in dark purple outfit|2019": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin in dark purple outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "happy hogan|2019": {
+    "role": "Civilian"
+  },
+  "happy hogan": {
+    "role": "Civilian"
+  },
+  "hawkeye white advanced tech quantum suit and quiver|2019": {
+    "role": "Hero"
+  },
+  "hawkeye white advanced tech quantum suit and quiver": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair dark blue pants|2019": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair dark blue pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig white jumpsuit with avengers logo|2019": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig white jumpsuit with avengers logo": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hydro man|2019": {
+    "role": "Villain"
+  },
+  "hydro man": {
+    "role": "Villain"
+  },
+  "iron man mark 1 armor|2019": {
+    "role": "Hero"
+  },
+  "iron man mark 1 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 41 armor bones armor|2019": {
+    "role": "Hero"
+  },
+  "iron man mark 41 armor bones armor": {
+    "role": "Hero"
+  },
+  "iron man mark 5 armor|2019": {
+    "role": "Hero"
+  },
+  "iron man mark 5 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms rounded helmet|2019": {
+    "role": "Hero"
+  },
+  "iron man mark 85 armor pearl gold arms rounded helmet": {
+    "role": "Hero"
+  },
+  "iron man white advanced tech quantum suit with neck bracket|2019": {
+    "role": "Hero"
+  },
+  "iron man white advanced tech quantum suit with neck bracket": {
+    "role": "Hero"
+  },
+  "mj michelle jones|2019": {
+    "role": "Civilian"
+  },
+  "mj michelle jones": {
+    "role": "Civilian"
+  },
+  "maria hill with black jacket and dark blue legs|2019": {
+    "role": "Civilian"
+  },
+  "maria hill with black jacket and dark blue legs": {
+    "role": "Civilian"
+  },
+  "maria rambeau|2019": {
+    "universe": "MCU"
+  },
+  "maria rambeau": {
+    "universe": "MCU"
+  },
+  "mysterio dark green outfit|2019": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mysterio dark green outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "nebula white advanced tech quantum suit|2019": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula white advanced tech quantum suit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ned leeds with dark red plaid shirt and dark blue legs|2019": {
+    "role": "Civilian"
+  },
+  "ned leeds with dark red plaid shirt and dark blue legs": {
+    "role": "Civilian"
+  },
+  "nick fury in long black coat over gray sweater line on hips|2019": {
+    "role": "Civilian"
+  },
+  "nick fury in long black coat over gray sweater line on hips": {
+    "role": "Civilian"
+  },
+  "nick fury young|2019": {
+    "role": "Civilian"
+  },
+  "nick fury young": {
+    "role": "Civilian"
+  },
+  "outrider with claws|2019": {
+    "role": "Villain"
+  },
+  "outrider with claws": {
+    "role": "Villain"
+  },
+  "outrider with shoulder armor|2019": {
+    "role": "Villain"
+  },
+  "outrider with shoulder armor": {
+    "role": "Villain"
+  },
+  "peter parker transforming in spider man|2019": {
+    "role": "Hero"
+  },
+  "peter parker transforming in spider man": {
+    "role": "Hero"
+  },
+  "rescue pepper potts|2019": {
+    "role": "Civilian"
+  },
+  "rescue pepper potts": {
+    "role": "Civilian"
+  },
+  "rocket raccoon white advanced tech quantum suit|2019": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon white advanced tech quantum suit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "sandman swirling dirt lower body with tan sweater|2019": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman swirling dirt lower body with tan sweater": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "spider man miles morales black hands|2019": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man 2099 bright light blue dots|2019": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man 2099 bright light blue dots": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man in black and gray outfit|2019": {
+    "role": "Hero"
+  },
+  "spider man in black and gray outfit": {
+    "role": "Hero"
+  },
+  "spider man with blue around eyes|2019": {
+    "role": "Hero"
+  },
+  "spider man with blue around eyes": {
+    "role": "Hero"
+  },
+  "spider man with dark red webbing and plain blue legs|2019": {
+    "role": "Hero"
+  },
+  "spider man with dark red webbing and plain blue legs": {
+    "role": "Hero"
+  },
+  "talos skrull|2019": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "talos skrull": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "thanos with gold armor on arms big fig|2019": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos with gold armor on arms big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thor white advanced tech quantum suit|2019": {
+    "role": "Hero"
+  },
+  "thor white advanced tech quantum suit": {
+    "role": "Hero"
+  },
+  "tony stark transforming into iron man black torso|2019": {
+    "role": "Civilian"
+  },
+  "tony stark transforming into iron man black torso": {
+    "role": "Civilian"
+  },
+  "venom with open mouth|2019": {
+    "role": "Villain"
+  },
+  "venom with open mouth": {
+    "role": "Villain"
+  },
+  "vulture in dark green outfit with neck bracket|2019": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vulture in dark green outfit with neck bracket": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "war machine white advanced tech quantum suit|2019": {
+    "role": "Hero"
+  },
+  "war machine white advanced tech quantum suit": {
+    "role": "Hero"
+  },
+  "ant man scott lang ant man the wasp|2018": {
+    "role": "Hero"
+  },
+  "ant man scott lang ant man the wasp": {
+    "role": "Hero"
+  },
+  "black panther with dark azure highlights|2018": {
+    "role": "Hero"
+  },
+  "black panther with dark azure highlights": {
+    "role": "Hero"
+  },
+  "black panther with reddish brown eyes|2018": {
+    "role": "Hero"
+  },
+  "black panther with reddish brown eyes": {
+    "role": "Hero"
+  },
+  "black widow bright light yellow hair|2018": {
+    "role": "Hero"
+  },
+  "black widow bright light yellow hair": {
+    "role": "Hero"
+  },
+  "captain america with beard|2018": {
+    "role": "Hero"
+  },
+  "captain america with beard": {
+    "role": "Hero"
+  },
+  "corvus glaive|2018": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "corvus glaive": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "cull obsidian big fig|2018": {
+    "universe": "MCU",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "cull obsidian big fig": {
+    "universe": "MCU",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "doctor strange with red cape and collar|2018": {
+    "role": "Hero"
+  },
+  "doctor strange with red cape and collar": {
+    "role": "Hero"
+  },
+  "ebony maw light aqua head|2018": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ebony maw light aqua head": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "erik killmonger|2018": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "erik killmonger": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "erik killmonger golden jaguar|2018": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "erik killmonger golden jaguar": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "falcon in dark bluish gray and black suit with neck bracket|2018": {
+    "role": "Hero"
+  },
+  "falcon in dark bluish gray and black suit with neck bracket": {
+    "role": "Hero"
+  },
+  "gamora in long reddish brown coat|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gamora in long reddish brown coat": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ghost ava starr|2018": {
+    "universe": "MCU"
+  },
+  "ghost ava starr": {
+    "universe": "MCU"
+  },
+  "groot teen|2018": {
+    "universe": "MCU",
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron man mark 43 armor plain trans clear head|2018": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor plain trans clear head": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor|2018": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor with neck bracket|2018": {
+    "role": "Hero"
+  },
+  "iron man mark 50 armor with neck bracket": {
+    "role": "Hero"
+  },
+  "iron spider man printed legs|2018": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "iron spider man printed legs": {
+    "universe": "Comic",
+    "role": "Hero",
+    "legs": "Yes"
+  },
+  "loki short legs|2018": {
+    "role": "Villain"
+  },
+  "loki short legs": {
+    "role": "Villain"
+  },
+  "nakia|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula with short legs|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula with short legs": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "okoye|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "outrider|2018": {
+    "role": "Villain"
+  },
+  "proxima midnight|2018": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "proxima midnight": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "sandman with short legs|2018": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman with short legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "shuri|2018": {
+    "role": "Hero"
+  },
+  "star lord peter quill in dark red jacket|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord peter quill in dark red jacket": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord with short legs|2018": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord with short legs": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "thanos with medium lavender arms big fig|2018": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos with medium lavender arms big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "the wasp hope van dyne with trans medium blue wings|2018": {
+    "role": "Hero"
+  },
+  "the wasp hope van dyne with trans medium blue wings": {
+    "role": "Hero"
+  },
+  "thor with 6 silver circles on chest and medium nougat hair|2018": {
+    "role": "Hero"
+  },
+  "thor with 6 silver circles on chest and medium nougat hair": {
+    "role": "Hero"
+  },
+  "thor with short legs|2018": {
+    "role": "Hero"
+  },
+  "thor with short legs": {
+    "role": "Hero"
+  },
+  "agent coulson|2017": {
+    "role": "Civilian"
+  },
+  "agent coulson": {
+    "role": "Civilian"
+  },
+  "bruce banner hulk|2017": {
+    "role": "Hero"
+  },
+  "bruce banner hulk": {
+    "role": "Hero"
+  },
+  "captain america in pilot outfit|2017": {
+    "role": "Hero"
+  },
+  "captain america in pilot outfit": {
+    "role": "Hero"
+  },
+  "drax with sand blue legs|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "drax with sand blue legs": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gamora in dark bluish gray and silver outfit|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gamora in dark bluish gray and silver outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "hela|2017": {
+    "role": "Villain"
+  },
+  "hela": {
+    "role": "Villain"
+  },
+  "hulk big fig dark green hair magenta pants|2017": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig dark green hair magenta pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig helmet armor black pants|2017": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig helmet armor black pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron man invincible iron man|2017": {
+    "role": "Hero"
+  },
+  "iron man invincible iron man": {
+    "role": "Hero"
+  },
+  "iron man mark 47 armor|2017": {
+    "role": "Hero"
+  },
+  "iron man mark 47 armor": {
+    "role": "Hero"
+  },
+  "iron man with short legs|2017": {
+    "role": "Hero"
+  },
+  "iron man with short legs": {
+    "role": "Hero"
+  },
+  "loki dark blue outfit|2017": {
+    "role": "Villain"
+  },
+  "loki dark blue outfit": {
+    "role": "Villain"
+  },
+  "magneto with short legs|2017": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "magneto with short legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mantis|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ms marvel long arms|2017": {
+    "role": "Hero"
+  },
+  "ms marvel long arms": {
+    "role": "Hero"
+  },
+  "nebula in tattered outfit|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula in tattered outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "red hulk big fig|2017": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "red hulk big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "red she hulk|2017": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "red she hulk": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "robber with captain america mask|2017": {
+    "role": "Hero"
+  },
+  "robber with captain america mask": {
+    "role": "Hero"
+  },
+  "robber with hulk mask|2017": {
+    "role": "Hero"
+  },
+  "robber with hulk mask": {
+    "role": "Hero"
+  },
+  "rocket raccoon in dark blue outfit|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon in dark blue outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "scorpion with short legs|2017": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scorpion with short legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "she hulk|2017": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "she hulk": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man with dual molded legs with red boots|2017": {
+    "role": "Hero"
+  },
+  "spider man with dual molded legs with red boots": {
+    "role": "Hero"
+  },
+  "spider man with short legs winking|2017": {
+    "role": "Hero"
+  },
+  "spider man with short legs winking": {
+    "role": "Hero"
+  },
+  "star lord in dark bluish gray and silver outfit with hair|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark bluish gray and silver outfit with hair": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark red outfit with open jacket and neck bracket|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark red outfit with open jacket and neck bracket": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "super adaptoid|2017": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "super adaptoid": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "taserface|2017": {
+    "universe": "MCU"
+  },
+  "taserface": {
+    "universe": "MCU"
+  },
+  "thanos with short legs|2017": {
+    "role": "Villain"
+  },
+  "thanos with short legs": {
+    "role": "Villain"
+  },
+  "thor with blue scabbard|2017": {
+    "role": "Hero"
+  },
+  "thor with blue scabbard": {
+    "role": "Hero"
+  },
+  "thor with helmet|2017": {
+    "role": "Hero"
+  },
+  "thor with helmet": {
+    "role": "Hero"
+  },
+  "valkyrie|2017": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "valkyrie": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "vulture with black jacket with fur collar|2017": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vulture with black jacket with fur collar": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "wolverine with short legs|2017": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine with short legs": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "yondu|2017": {
+    "universe": "MCU"
+  },
+  "yondu": {
+    "universe": "MCU"
+  },
+  "aunt may with medium lavender scarf|2016": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "aunt may with medium lavender scarf": {
+    "universe": "MCU",
+    "role": "Civilian"
+  },
+  "black panther|2016": {
+    "role": "Hero"
+  },
+  "captain america in scuba suit with printed mask|2016": {
+    "role": "Hero"
+  },
+  "captain america in scuba suit with printed mask": {
+    "role": "Hero"
+  },
+  "captain america in space suit with printed mask|2016": {
+    "role": "Hero"
+  },
+  "captain america in space suit with printed mask": {
+    "role": "Hero"
+  },
+  "captain america with hair|2016": {
+    "role": "Hero"
+  },
+  "captain america with hair": {
+    "role": "Hero"
+  },
+  "captain america with short legs|2016": {
+    "role": "Hero"
+  },
+  "captain america with short legs": {
+    "role": "Hero"
+  },
+  "captain marvel with red sash belt|2016": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain marvel with red sash belt": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "captain stacy|2016": {
+    "role": "Hero"
+  },
+  "captain stacy": {
+    "role": "Hero"
+  },
+  "crossbones|2016": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "crossbones": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "doctor strange|2016": {
+    "role": "Hero"
+  },
+  "doctor strange": {
+    "role": "Hero"
+  },
+  "dr octopus doc ock in bright green and yellow outfit with no tentacles|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock in bright green and yellow outfit with no tentacles": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "falcon with light bluish gray and dark red wings|2016": {
+    "role": "Hero"
+  },
+  "falcon with light bluish gray and dark red wings": {
+    "role": "Hero"
+  },
+  "ghost rider white head torn jacket|2016": {
+    "role": "Hero"
+  },
+  "ghost rider white head torn jacket": {
+    "role": "Hero"
+  },
+  "green goblin in magenta outfit|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin in magenta outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin with short legs|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "green goblin with short legs": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hydra henchman in diver outfit|2016": {
+    "role": "Villain"
+  },
+  "hydra henchman in diver outfit": {
+    "role": "Villain"
+  },
+  "hawkeye|2016": {
+    "role": "Hero"
+  },
+  "hawkeye": {
+    "role": "Hero"
+  },
+  "hobgoblin|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hobgoblin": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hulk short legs|2016": {
+    "role": "Hero"
+  },
+  "hulk short legs": {
+    "role": "Hero"
+  },
+  "hyperion|2016": {
+    "universe": "Comic"
+  },
+  "hyperion": {
+    "universe": "Comic"
+  },
+  "iron man mark 37 scuba suit hammerhead armor|2016": {
+    "role": "Hero"
+  },
+  "iron man mark 37 scuba suit hammerhead armor": {
+    "role": "Hero"
+  },
+  "iron man mark 39 armor white space suit gemini starboost armor|2016": {
+    "role": "Hero"
+  },
+  "iron man mark 39 armor white space suit gemini starboost armor": {
+    "role": "Hero"
+  },
+  "iron man mark 46 armor|2016": {
+    "role": "Hero"
+  },
+  "iron man mark 46 armor": {
+    "role": "Hero"
+  },
+  "iron skull|2016": {
+    "role": "Villain"
+  },
+  "iron skull": {
+    "role": "Villain"
+  },
+  "kraven the hunter|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "kraven the hunter": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "red skull with short legs|2016": {
+    "role": "Villain"
+  },
+  "red skull with short legs": {
+    "role": "Villain"
+  },
+  "scarlet witch with cloth coattail|2016": {
+    "role": "Hero"
+  },
+  "scarlet witch with cloth coattail": {
+    "role": "Hero"
+  },
+  "scorpion|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scorpion": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "spider man|2016": {
+    "role": "Hero"
+  },
+  "spider man with short legs|2016": {
+    "role": "Hero"
+  },
+  "spider man with short legs": {
+    "role": "Hero"
+  },
+  "thanos with dark blue arms big fig|2016": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "thanos with dark blue arms big fig": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "ultron with short legs|2016": {
+    "role": "Villain"
+  },
+  "ultron with short legs": {
+    "role": "Villain"
+  },
+  "vision with yellow cape|2016": {
+    "role": "Hero"
+  },
+  "vision with yellow cape": {
+    "role": "Hero"
+  },
+  "vulture in green outfit|2016": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vulture in green outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "war machine mark 3 red eyes|2016": {
+    "role": "Hero"
+  },
+  "war machine mark 3 red eyes": {
+    "role": "Hero"
+  },
+  "winter soldier with black hands|2016": {
+    "role": "Hero"
+  },
+  "winter soldier with black hands": {
+    "role": "Hero"
+  },
+  "ant man hank pym|2015": {
+    "role": "Hero"
+  },
+  "ant man hank pym": {
+    "role": "Hero"
+  },
+  "ant man scott lang|2015": {
+    "role": "Hero"
+  },
+  "ant man scott lang": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit dark azure highlights|2015": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit dark azure highlights": {
+    "role": "Hero"
+  },
+  "captain america with dark blue suit and mask|2015": {
+    "role": "Hero"
+  },
+  "captain america with dark blue suit and mask": {
+    "role": "Hero"
+  },
+  "captain america with hair and dark orange eyebrows|2015": {
+    "role": "Hero"
+  },
+  "captain america with hair and dark orange eyebrows": {
+    "role": "Hero"
+  },
+  "carnage with red tentacles|2015": {
+    "role": "Villain"
+  },
+  "carnage with red tentacles": {
+    "role": "Villain"
+  },
+  "hydra henchman in chitauri armor|2015": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "hydra henchman in chitauri armor": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "hawkeye in black and dark red outfit|2015": {
+    "role": "Hero"
+  },
+  "hawkeye in black and dark red outfit": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair dark purple pants with print|2015": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair dark purple pants with print": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron legion trans orange head|2015": {
+    "role": "Hero"
+  },
+  "iron legion trans orange head": {
+    "role": "Hero"
+  },
+  "iron man nanofig|2015": {
+    "role": "Hero"
+  },
+  "iron man nanofig": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor|2015": {
+    "role": "Hero"
+  },
+  "iron man mark 43 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 45 armor|2015": {
+    "role": "Hero"
+  },
+  "iron man mark 45 armor": {
+    "role": "Hero"
+  },
+  "iron spider|2015": {
+    "universe": "Comic"
+  },
+  "iron spider": {
+    "universe": "Comic"
+  },
+  "maria hill in dark blue outfit|2015": {
+    "role": "Civilian"
+  },
+  "maria hill in dark blue outfit": {
+    "role": "Civilian"
+  },
+  "nick fury in long leather coat|2015": {
+    "role": "Civilian"
+  },
+  "nick fury in long leather coat": {
+    "role": "Civilian"
+  },
+  "quicksilver|2015": {
+    "role": "Hero"
+  },
+  "quicksilver": {
+    "role": "Hero"
+  },
+  "rhino no helmet|2015": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "rhino no helmet": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman|2015": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "sandman": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "scarlet witch with dark red jacket over black dress|2015": {
+    "role": "Hero"
+  },
+  "scarlet witch with dark red jacket over black dress": {
+    "role": "Hero"
+  },
+  "spider man miles morales red hands red face webbing|2015": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man miles morales red hands red face webbing": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "spider man with plain dual molded blue and red legs|2015": {
+    "role": "Hero"
+  },
+  "spider man with plain dual molded blue and red legs": {
+    "role": "Hero"
+  },
+  "thor with plain dark blue legs|2015": {
+    "role": "Hero"
+  },
+  "thor with plain dark blue legs": {
+    "role": "Hero"
+  },
+  "ultron ultimate ultron|2015": {
+    "role": "Villain"
+  },
+  "ultron ultimate ultron": {
+    "role": "Villain"
+  },
+  "ultron mark 1 trans clear head|2015": {
+    "role": "Villain"
+  },
+  "ultron mark 1 trans clear head": {
+    "role": "Villain"
+  },
+  "ultron prime|2015": {
+    "role": "Villain"
+  },
+  "ultron prime": {
+    "role": "Villain"
+  },
+  "ultron sentry|2015": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ultron sentry": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ultron sentry officer|2015": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "ultron sentry officer": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "vision with infinity stone on forehead|2015": {
+    "role": "Hero"
+  },
+  "vision with infinity stone on forehead": {
+    "role": "Hero"
+  },
+  "armored truck driver|2014": {
+    "role": "Civilian"
+  },
+  "armored truck driver": {
+    "role": "Civilian"
+  },
+  "captain america in blue suit and plain blue legs|2014": {
+    "role": "Hero"
+  },
+  "captain america in blue suit and plain blue legs": {
+    "role": "Hero"
+  },
+  "cyclops|2014": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "cyclops": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "dr octopus doc ock with long white lab coat|2014": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock with long white lab coat": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "drax|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "electro with trans medium blue head and arms|2014": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "electro with trans medium blue head and arms": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "falcon in red and white outfit|2014": {
+    "role": "Hero"
+  },
+  "falcon in red and white outfit": {
+    "role": "Hero"
+  },
+  "gamora in dark red outfit|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "gamora in dark red outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "green goblin big fig|2014": {
+    "universe": "Comic",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "green goblin big fig": {
+    "universe": "Comic",
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "hydra henchman|2014": {
+    "role": "Villain"
+  },
+  "hydra henchman": {
+    "role": "Villain"
+  },
+  "hulk big fig black hair dark purple pants|2014": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair dark purple pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "modok|2014": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "modok": {
+    "role": "Villain",
+    "mold": "Yes"
+  },
+  "magneto dark purple outfit with hair|2014": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "magneto dark purple outfit with hair": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "mary jane with heart spider man logo on shirt|2014": {
+    "role": "Civilian"
+  },
+  "mary jane with heart spider man logo on shirt": {
+    "role": "Civilian"
+  },
+  "nebula|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nebula": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "nova corps officer|2014": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "nova corps officer": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "power man|2014": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "power man": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "red skull|2014": {
+    "role": "Villain"
+  },
+  "rocket raccoon in orange outfit|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "rocket raccoon in orange outfit": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "ronan the accuser blue skin|2014": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "ronan the accuser blue skin": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "star lord in dark red outfit with mask|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark red outfit with mask": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark red outfit with open jacket and mask|2014": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "star lord in dark red outfit with open jacket and mask": {
+    "universe": "MCU",
+    "role": "Hero"
+  },
+  "storm|2014": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "storm": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "taskmaster tony masters white cape and hood|2014": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "taskmaster tony masters white cape and hood": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "thor with no beard|2014": {
+    "role": "Hero"
+  },
+  "thor with no beard": {
+    "role": "Hero"
+  },
+  "wolverine mask dark brown hands|2014": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine mask dark brown hands": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "aldrich killian|2013": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "beetle|2013": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "beetle": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr doom|2013": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr doom": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "extremis soldier|2013": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "extremis soldier": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "iron man mark 17 armor heartbreaker armor|2013": {
+    "role": "Hero"
+  },
+  "iron man mark 17 armor heartbreaker armor": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor|2013": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor plain white head|2013": {
+    "role": "Hero"
+  },
+  "iron man mark 42 armor plain white head": {
+    "role": "Hero"
+  },
+  "iron patriot mk 1|2013": {
+    "role": "Hero"
+  },
+  "iron patriot mk 1": {
+    "role": "Hero"
+  },
+  "j jonah jameson sand blue suit|2013": {
+    "role": "Civilian"
+  },
+  "j jonah jameson sand blue suit": {
+    "role": "Civilian"
+  },
+  "nick fury|2013": {
+    "role": "Civilian"
+  },
+  "nick fury": {
+    "role": "Civilian"
+  },
+  "nova|2013": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "nova": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "pepper potts white suit|2013": {
+    "role": "Civilian"
+  },
+  "pepper potts white suit": {
+    "role": "Civilian"
+  },
+  "the mandarin|2013": {
+    "role": "Villain"
+  },
+  "the mandarin": {
+    "role": "Villain"
+  },
+  "the mandarin with dark green cape|2013": {
+    "role": "Villain"
+  },
+  "the mandarin with dark green cape": {
+    "role": "Villain"
+  },
+  "tony stark in black shirt with chest arc reactor|2013": {
+    "role": "Civilian"
+  },
+  "tony stark in black shirt with chest arc reactor": {
+    "role": "Civilian"
+  },
+  "venom with black tentacles|2013": {
+    "role": "Villain"
+  },
+  "venom with black tentacles": {
+    "role": "Villain"
+  },
+  "war machine|2013": {
+    "role": "Hero"
+  },
+  "war machine": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit blue highlights|2012": {
+    "role": "Hero"
+  },
+  "black widow black jumpsuit blue highlights": {
+    "role": "Hero"
+  },
+  "captain america with dark blue head|2012": {
+    "role": "Hero"
+  },
+  "captain america with dark blue head": {
+    "role": "Hero"
+  },
+  "chitauri foot soldier|2012": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "chitauri foot soldier": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "chitauri general|2012": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "chitauri general": {
+    "universe": "MCU",
+    "role": "Villain"
+  },
+  "deadpool|2012": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "deadpool": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "dr octopus doc ock with red sunglasses and light bluish gray suit|2012": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "dr octopus doc ock with red sunglasses and light bluish gray suit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "hawkeye with red glasses|2012": {
+    "role": "Hero"
+  },
+  "hawkeye with red glasses": {
+    "role": "Hero"
+  },
+  "hulk big fig black hair dark tan pants|2012": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "hulk big fig black hair dark tan pants": {
+    "role": "Hero",
+    "mold": "Yes"
+  },
+  "iron fist|2012": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "iron fist": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "iron man mark 6 armor|2012": {
+    "role": "Hero"
+  },
+  "iron man mark 6 armor": {
+    "role": "Hero"
+  },
+  "magneto red outfit|2012": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "magneto red outfit": {
+    "universe": "Comic",
+    "role": "Villain"
+  },
+  "spider man|2012": {
+    "role": "Hero"
+  },
+  "thor with red cape and bright yellow hair|2012": {
+    "role": "Hero"
+  },
+  "thor with red cape and bright yellow hair": {
+    "role": "Hero"
+  },
+  "wolverine|2012": {
+    "universe": "Comic",
+    "role": "Hero"
+  },
+  "wolverine": {
+    "universe": "Comic",
+    "role": "Hero"
+  }
+}
