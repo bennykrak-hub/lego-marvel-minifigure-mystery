@@ -32,7 +32,7 @@ If Actions is disabled, enable it in the repository's Actions tab. The workflow 
 
 - Brickmaniacos Marvel minifigure directory: https://brickmaniacos.com/directorio/minifiguras/super-heroes-marvel
 - Rebrickable public catalogue downloads: https://rebrickable.com/downloads/
-- 
+- Refreshing GitHub Pages.
 - Rebrickable image CDN: https://cdn.rebrickable.com/media/sets/
 
 LEGO and Marvel are trademarks of their respective owners. This is an unofficial fan project and is not affiliated with or endorsed by LEGO, Marvel, Brickmaniacos, or Rebrickable. Images are referenced from their source and are not redistributed in this package. Please review each source's terms and attribution requirements before public launch.
