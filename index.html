@@ -68,7 +68,32 @@ function choose(f){selected=f;els.search.value=f.name+(f.year?' · '+f.year:'');
 function searchMatches(q){const low=q.trim().toLocaleLowerCase();if(!low)return[];const already=new Set(guesses.map(g=>g.id));return figures.filter(f=>!already.has(f.id)&&f.name.toLocaleLowerCase().includes(low)).sort((a,b)=>{const aa=a.name.toLocaleLowerCase().startsWith(low)?0:1,bb=b.name.toLocaleLowerCase().startsWith(low)?0:1;return aa-bb||b.year-a.year||a.name.localeCompare(b.name)}).slice(0,8)}
 function renderSuggestions(){const q=els.search.value.trim();selected=null;els.guess.disabled=true;if(q.length<1){hideSuggestions();return}suggestionsNow=searchMatches(q);els.suggestions.replaceChildren();if(!suggestionsNow.length){const empty=document.createElement('div');empty.className='suggestion';empty.textContent='No matching minifigures';els.suggestions.appendChild(empty)}else suggestionsNow.forEach((f,i)=>{const b=document.createElement('button');b.type='button';b.className='suggestion'+(i===activeSuggestion?' active':'');b.setAttribute('role','option');const name=document.createElement('span');name.textContent=f.name;const meta=document.createElement('small');meta.textContent=[f.year,f.universe,f.role].filter(Boolean).join(' · ');b.append(name,meta);b.addEventListener('mousedown',e=>e.preventDefault());b.addEventListener('click',()=>choose(f));els.suggestions.appendChild(b)});els.suggestions.classList.add('open')}
 function submit(){if(finished)return;if(!selected){const exact=figures.filter(f=>f.name.toLocaleLowerCase()===els.search.value.trim().toLocaleLowerCase()&&!guesses.some(g=>g.id===f.id));if(exact.length===1)selected=exact[0];else{showNotice('Choose the exact minifigure variant from the suggestion list.');renderSuggestions();return}}if(guesses.some(g=>g.id===selected.id)){showNotice('You already guessed that figure.');return}guesses.push(selected);selected=null;els.search.value='';els.guess.disabled=true;clearNotice();hideSuggestions();if(guesses[guesses.length-1].id===answer.id)finished=true;else if(guesses.length>=MAX)finished=true;renderDots();buildBoard();if(mode==='daily')saveDaily();if(finished)showEnd()}
-function showEnd(){els.end.classList.add('show');if(answer.image){els.answerImage.src=answer.image;els.answerImage.classList.add('show');els.answerImage.onerror=()=>els.answerImage.classList.remove('show')}const won=guesses.some(g=>g.id===answer.id);els.endTitle.textContent=won?'You found the mystery minifigure!':'Game over';els.endText.textContent=`The answer was ${answer.name}${answer.year?' ('+answer.year+')':''}. ${won?'Solved in '+guesses.length+' '+(guesses.length===1?'guess':'guesses')+'.':'Try another practice round to keep playing.'}`;els.newPractice.style.display=mode==='practice'?'inline-block':'none';els.guess.disabled=true;els.search.disabled=true;}
+function showEnd(){function showEnd(){
+  els.end.classList.add('show');
+  hideSuggestions();
+  selected=null;
+  if(answer.image){
+    els.answerImage.src=answer.image;
+    els.answerImage.classList.add('show');
+    els.answerImage.onerror=()=>els.answerImage.classList.remove('show');
+  }
+  const won=guesses.some(g=>g.id===answer.id);
+  els.endTitle.textContent=won
+    ?(mode==='daily'?'You’re a true LEGO Marvel expert!':'You found the mystery minifigure!')
+    :'Game over';
+
+  const answerLine=`The answer was ${answer.name}${answer.year?' ('+answer.year+')':''}.`;
+  const resultLine=won
+    ?'Solved in '+guesses.length+' '+(guesses.length===1?'guess':'guesses')+'.'
+    :'You used all your guesses.';
+  const dailyLine=mode==='daily'
+    ?' Come back tomorrow for a new mystery!'
+    :(won?' Great job!':'Try another practice round to keep playing.');
+  els.endText.textContent=answerLine+' '+resultLine+dailyLine;
+  els.newPractice.style.display=mode==='practice'?'inline-block':'none';
+  els.guess.disabled=true;
+  els.search.disabled=true;
+}}const won=guesses.some(g=>g.id===answer.id);els.endTitle.textContent=won?'You found the mystery minifigure!':'Game over';els.endText.textContent=`The answer was ${answer.name}${answer.year?' ('+answer.year+')':''}. ${won?'Solved in '+guesses.length+' '+(guesses.length===1?'guess':'guesses')+'.':'Try another practice round to keep playing.'}`;els.newPractice.style.display=mode==='practice'?'inline-block':'none';els.guess.disabled=true;els.search.disabled=true;}
 function shareText(){const won=guesses.some(g=>g.id===answer.id);let s=`Marvel Minifigure Mystery · ${dailyDate}\n${won?guesses.length+'/8':'X/8'}\n`;guesses.forEach(g=>{const cs=clues(g,answer);s+=cs.map(c=>c.status==='good'?'🟩':c.status==='partial'?'🟨':c.status==='bad'?'🟥':'⬜').join('')+'\n'});s+='Play: https://bennyrak-hub.github.io/lego-marvel-minifigure-mystery/';return s}
 async function share(){const txt=shareText();try{if(navigator.share)await navigator.share({text:txt});else if(navigator.clipboard&&navigator.clipboard.writeText){await navigator.clipboard.writeText(txt);showNotice('Result copied to clipboard!')}else{window.prompt('Copy your result:',txt)}}catch(e){if(e.name!=='AbortError')showNotice('Could not share automatically. You can copy the result from the prompt.')}}
 function newPractice(){setMode('practice');answer=figures[Math.floor(Math.random()*figures.length)];els.search.disabled=false;els.search.focus()}
