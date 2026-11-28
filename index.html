@@ -49,12 +49,15 @@ function norm(v){return v===null||v===undefined||v===''?null:v}
 function same(a,b){return norm(a)!==null&&norm(b)!==null&&String(a).toLowerCase()===String(b).toLowerCase()}
 function numericClue(guess,target,close){if(guess===null||target===null)return{cls:'unknown',text:'—',status:'unknown'};if(guess===target)return{cls:'good',text:String(guess),status:'good'};let d=Math.abs(guess-target),arrow=target>guess?'↑':'↓';return{cls:d<=close?'partial':'bad',text:String(guess)+' '+arrow,status:d<=close?'partial':'bad',arrow}}
 function exactClue(g,t,key,formatter=v=>String(v)){if(norm(g[key])===null||norm(t[key])===null)return{cls:'unknown',text:'—',status:'unknown'};const hit=same(g[key],t[key]);return{cls:hit?'good':'bad',text:formatter(g[key]),status:hit?'good':'bad'}}
+
 function clues(g,t){return[
  numericClue(g.year,t.year,2),
  exactClue(g,t,'universe'),
  exactClue(g,t,'role'),
  exactClue(g,t,'legs',v=>v==='Yes'?'Printed':v==='No'?'Plain':v),
  numericClue(g.sets,t.sets,1)
+];}
+
 function buildBoard(){const heads=['Your guess','Year','Universe','Role','Leg print','Sets'];els.board.replaceChildren();const header=document.createElement('div');header.className='grid-head';heads.forEach((h,i)=>{const d=document.createElement('div');d.className='tile'+(i===0?' guess-name':'');d.textContent=h;header.appendChild(d)});els.board.appendChild(header);for(const g of [...guesses].reverse()){const row=document.createElement('div');row.className='guess-row';const name=document.createElement('div');name.className='tile guess-name';if(g.image){const im=document.createElement('img');im.className='figure-thumb';im.src=g.image;im.alt='';im.loading='lazy';im.referrerPolicy='no-referrer';im.onerror=()=>im.remove();name.appendChild(im)}const label=document.createElement('span');label.className='figure-name';label.textContent=g.name+(g.year?' ('+g.year+')':'');name.appendChild(label);row.appendChild(name);clues(g,answer).forEach(c=>{const d=document.createElement('div');d.className='tile '+c.cls;d.textContent=c.text;row.appendChild(d)});els.board.appendChild(row)}}
 function renderDots(){els.dots.replaceChildren();for(let i=0;i<MAX;i++){const d=document.createElement('span');d.className='attempt-dot'+(i<guesses.length?' used':'');if(finished&&guesses.some(g=>g.id===answer.id))d.className='attempt-dot'+(i<guesses.length?' won':'');els.dots.appendChild(d)}els.count.textContent=`${MAX-guesses.length} ${MAX-guesses.length===1?'attempt':'attempts'} remaining`}
 function resetView(){guesses=[];finished=false;selected=null;activeSuggestion=-1;els.search.value='';els.guess.disabled=true;els.end.classList.remove('show');els.answerImage.classList.remove('show');els.answerImage.removeAttribute('src');els.newPractice.style.display='none';clearNotice();renderDots();buildBoard();hideSuggestions()}
