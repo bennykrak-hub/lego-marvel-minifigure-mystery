@@ -1,0 +1,7192 @@
+[
+  {
+    "id": "fig-013666",
+    "name": "Adam Warlock",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013666.jpg"
+  },
+  {
+    "id": "fig-005305",
+    "name": "Agent 13",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005305.jpg"
+  },
+  {
+    "id": "fig-005347",
+    "name": "Agent Coulson",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005347.jpg"
+  },
+  {
+    "id": "fig-017693",
+    "name": "Agent Coulson, Black Tie",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017693.jpg"
+  },
+  {
+    "id": "fig-005606",
+    "name": "AIM Agent",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005606.jpg"
+  },
+  {
+    "id": "fig-010249",
+    "name": "AIM Agent, Visor",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010249.jpg"
+  },
+  {
+    "id": "fig-013183",
+    "name": "AIM Agent with Backpack",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013183.jpg"
+  },
+  {
+    "id": "fig-005590",
+    "name": "AIM Agent with Backpack, Pins",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005590.jpg"
+  },
+  {
+    "id": "fig-005607",
+    "name": "AIM Agent with Neck Bracket",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005607.jpg"
+  },
+  {
+    "id": "fig-013186",
+    "name": "AIM Agent with Neck Bracket at Front",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013186.jpg"
+  },
+  {
+    "id": "fig-011812",
+    "name": "Ajak",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011812.jpg"
+  },
+  {
+    "id": "fig-004891",
+    "name": "Aldrich Killian",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004891.jpg"
+  },
+  {
+    "id": "fig-016228",
+    "name": "Aldrich Killian",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016228.jpg"
+  },
+  {
+    "id": "fig-014440",
+    "name": "Alexander Pierce",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014440.jpg"
+  },
+  {
+    "id": "fig-018203",
+    "name": "Alexei Shostakov / Red Guardian",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018203.jpg"
+  },
+  {
+    "id": "fig-011305",
+    "name": "Amber Grant",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011305.jpg"
+  },
+  {
+    "id": "fig-012092",
+    "name": "America Chavez",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012092.jpg"
+  },
+  {
+    "id": "fig-015918",
+    "name": "Anti-Venom",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015918.jpg"
+  },
+  {
+    "id": "fig-017393",
+    "name": "Anti-Venom",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017393.jpg"
+  },
+  {
+    "id": "fig-017886",
+    "name": "Anti-Venom, Neck Bracket",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017886.jpg"
+  },
+  {
+    "id": "fig-016248",
+    "name": "Ant-Man",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016248.jpg"
+  },
+  {
+    "id": "fig-005092",
+    "name": "Ant-Man (Hank Pym)",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005092.jpg"
+  },
+  {
+    "id": "fig-005094",
+    "name": "Ant-Man (Scott Lang)",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005094.jpg"
+  },
+  {
+    "id": "fig-005451",
+    "name": "Ant-Man (Scott Lang) (Ant-Man & The Wasp)",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005451.jpg"
+  },
+  {
+    "id": "fig-005467",
+    "name": "Ant-Man (Scott Lang), White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005467.jpg"
+  },
+  {
+    "id": "fig-005004",
+    "name": "Armored Truck Driver",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005004.jpg"
+  },
+  {
+    "id": "fig-005602",
+    "name": "Armored Truck Driver with Helmet",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005602.jpg"
+  },
+  {
+    "id": "fig-013138",
+    "name": "Attuma",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013138.jpg"
+  },
+  {
+    "id": "fig-005489",
+    "name": "Aunt May in Bright Light Blue Sweater",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005489.jpg"
+  },
+  {
+    "id": "fig-011300",
+    "name": "Aunt May, Light Bluish Gray Sweater",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011300.jpg"
+  },
+  {
+    "id": "fig-016616",
+    "name": "Aunt May, Light Bluish Gray Sweater, Bright Light Blue Legs",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016616.jpg"
+  },
+  {
+    "id": "fig-005329",
+    "name": "Aunt May with Medium Lavender Scarf",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005329.jpg"
+  },
+  {
+    "id": "fig-005354",
+    "name": "Ayesha",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005354.jpg"
+  },
+  {
+    "id": "fig-014600",
+    "name": "Baby Groot",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014600.jpg"
+  },
+  {
+    "id": "fig-005244",
+    "name": "Baron Von Strucker",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005244.jpg"
+  },
+  {
+    "id": "fig-004893",
+    "name": "Beetle",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004893.jpg"
+  },
+  {
+    "id": "fig-011301",
+    "name": "Ben Urich",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011301.jpg"
+  },
+  {
+    "id": "fig-002565",
+    "name": "Berserker",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002565.jpg"
+  },
+  {
+    "id": "fig-011303",
+    "name": "Betty Brant",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011303.jpg"
+  },
+  {
+    "id": "fig-015608",
+    "name": "Bishop",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015608.jpg"
+  },
+  {
+    "id": "fig-011311",
+    "name": "Black Cat",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011311.jpg"
+  },
+  {
+    "id": "fig-005225",
+    "name": "Black Panther",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005225.jpg"
+  },
+  {
+    "id": "fig-011406",
+    "name": "Black Panther",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011406.jpg"
+  },
+  {
+    "id": "fig-013139",
+    "name": "Black Panther",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013139.jpg"
+  },
+  {
+    "id": "fig-012417",
+    "name": "Black Panther",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012417.jpg"
+  },
+  {
+    "id": "fig-015924",
+    "name": "Black Panther",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015924.jpg"
+  },
+  {
+    "id": "fig-013528",
+    "name": "Black Panther, Medium Legs",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013528.jpg"
+  },
+  {
+    "id": "fig-005589",
+    "name": "Black Panther with Collar",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005589.jpg"
+  },
+  {
+    "id": "fig-005444",
+    "name": "Black Panther with Dark Azure Highlights",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005444.jpg"
+  },
+  {
+    "id": "fig-005434",
+    "name": "Black Panther with Reddish Brown Eyes",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005434.jpg"
+  },
+  {
+    "id": "fig-004591",
+    "name": "Black Widow, Black Jumpsuit, Blue Highlights",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004591.jpg"
+  },
+  {
+    "id": "fig-005062",
+    "name": "Black Widow, Black Jumpsuit, Dark Azure Highlights",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005062.jpg"
+  },
+  {
+    "id": "fig-008300",
+    "name": "Black Widow, Black Jumpsuit, Gold Belt",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008300.jpg"
+  },
+  {
+    "id": "fig-013391",
+    "name": "Black Widow, Black Jumpsuit, Plain Legs",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013391.jpg"
+  },
+  {
+    "id": "fig-014441",
+    "name": "Black Widow, Black Jumpsuit, Printed Legs (20877 Hair)",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014441.jpg"
+  },
+  {
+    "id": "fig-015930",
+    "name": "Black Widow, Black Jumpsuit, Printed Legs (85974 Hair)",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015930.jpg"
+  },
+  {
+    "id": "fig-008920",
+    "name": "Black Widow, Black Jumpsuit, Silver Highlights",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 5,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008920.jpg"
+  },
+  {
+    "id": "fig-005439",
+    "name": "Black Widow, Bright Light Yellow Hair",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005439.jpg"
+  },
+  {
+    "id": "fig-013809",
+    "name": "Black Widow, Pearl Dark Gray Jumpsuit, Medium Azure Highlights",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013809.jpg"
+  },
+  {
+    "id": "fig-005588",
+    "name": "Black Widow, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005588.jpg"
+  },
+  {
+    "id": "fig-010689",
+    "name": "Black Widow, White Jumpsuit, Dark Bluish Gray Hands",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010689.jpg"
+  },
+  {
+    "id": "fig-011302",
+    "name": "Blade",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011302.jpg"
+  },
+  {
+    "id": "fig-017669",
+    "name": "Boomerang (Marvel)",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017669.jpg"
+  },
+  {
+    "id": "fig-002566",
+    "name": "Bruce Banner (Hulk)",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002566.jpg"
+  },
+  {
+    "id": "fig-013386",
+    "name": "Bruce Banner (Hulk), Black Jacket",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013386.jpg"
+  },
+  {
+    "id": "fig-018206",
+    "name": "Bucky Barnes / Winter Soldier",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018206.jpg"
+  },
+  {
+    "id": "fig-011407",
+    "name": "Captain America",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011407.jpg"
+  },
+  {
+    "id": "fig-011410",
+    "name": "Captain America",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 5,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011410.jpg"
+  },
+  {
+    "id": "fig-005041",
+    "name": "Captain America in Blue Suit and Plain Blue Legs",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005041.jpg"
+  },
+  {
+    "id": "fig-005608",
+    "name": "Captain America in Dark Blue Outfit with Black Hands and Hair",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005608.jpg"
+  },
+  {
+    "id": "fig-005350",
+    "name": "Captain America in Pilot Outfit",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005350.jpg"
+  },
+  {
+    "id": "fig-013024",
+    "name": "Captain America in Scuba Suit with Printed Mask",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013024.jpg"
+  },
+  {
+    "id": "fig-005312",
+    "name": "Captain America in Space Suit with Printed Mask",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005312.jpg"
+  },
+  {
+    "id": "fig-015966",
+    "name": "Captain America, Light Bluish Grey Arms",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015966.jpg"
+  },
+  {
+    "id": "fig-010822",
+    "name": "Captain America, Mask",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010822.jpg"
+  },
+  {
+    "id": "fig-012603",
+    "name": "Captain America, Mask, Neck Bracket",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012603.jpg"
+  },
+  {
+    "id": "fig-011587",
+    "name": "Captain America, Medium Nougat Hair, Red Hand, Beard",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011587.jpg"
+  },
+  {
+    "id": "fig-015391",
+    "name": "Captain America, Neck Bracket",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015391.jpg"
+  },
+  {
+    "id": "fig-016521",
+    "name": "Captain America, Neck Bracket",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016521.jpg"
+  },
+  {
+    "id": "fig-016641",
+    "name": "Captain America, No Wings on Helmet",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016641.jpg"
+  },
+  {
+    "id": "fig-017689",
+    "name": "Captain America, Printed Arms",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017689.jpg"
+  },
+  {
+    "id": "fig-001441",
+    "name": "Captain America, Sam Wilson",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001441.jpg"
+  },
+  {
+    "id": "fig-015684",
+    "name": "Captain America, Sam Wilson, Dual-Molded Legs",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015684.jpg"
+  },
+  {
+    "id": "fig-018195",
+    "name": "Captain America, Sam Wilson, Dual-Molded Legs, Neck Bracket",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018195.jpg"
+  },
+  {
+    "id": "fig-017049",
+    "name": "Captain America, Sam Wilson, Plain Legs",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017049.jpg"
+  },
+  {
+    "id": "fig-013187",
+    "name": "Captain America (Toy Fair 2012 Exclusive)",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013187.jpg"
+  },
+  {
+    "id": "fig-005471",
+    "name": "Captain America, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005471.jpg"
+  },
+  {
+    "id": "fig-005440",
+    "name": "Captain America with Beard",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005440.jpg"
+  },
+  {
+    "id": "fig-004585",
+    "name": "Captain America with Dark Blue Head",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004585.jpg"
+  },
+  {
+    "id": "fig-001565",
+    "name": "Captain America with Dark Blue Suit and Mask",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 5,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001565.jpg"
+  },
+  {
+    "id": "fig-014284",
+    "name": "Captain America with Dark Blue Suit, Hair",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014284.jpg"
+  },
+  {
+    "id": "fig-013390",
+    "name": "Captain America with Dark Blue Suit, Helmet",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013390.jpg"
+  },
+  {
+    "id": "fig-005226",
+    "name": "Captain America with Hair",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005226.jpg"
+  },
+  {
+    "id": "fig-005241",
+    "name": "Captain America with Hair and Dark Orange Eyebrows",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005241.jpg"
+  },
+  {
+    "id": "fig-000005",
+    "name": "Captain America with Short Legs",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000005.jpg"
+  },
+  {
+    "id": "fig-011612",
+    "name": "Captain Carter",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011612.jpg"
+  },
+  {
+    "id": "fig-009581",
+    "name": "Captain Marvel, Bright Light Yellow Hair",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009581.jpg"
+  },
+  {
+    "id": "fig-004617",
+    "name": "Captain Marvel in Kree Starforce Uniform",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004617.jpg"
+  },
+  {
+    "id": "fig-014388",
+    "name": "Captain Marvel, Mid-length Tan Hair",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014388.jpg"
+  },
+  {
+    "id": "fig-009397",
+    "name": "Captain Marvel, Red Helmet with Mohawk",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009397.jpg"
+  },
+  {
+    "id": "fig-011842",
+    "name": "Captain Marvel, Short Tan Hair",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011842.jpg"
+  },
+  {
+    "id": "fig-005573",
+    "name": "Captain Marvel with Medium Nougat Hair",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005573.jpg"
+  },
+  {
+    "id": "fig-005313",
+    "name": "Captain Marvel with Red Sash Belt",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005313.jpg"
+  },
+  {
+    "id": "fig-005333",
+    "name": "Captain Stacy",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005333.jpg"
+  },
+  {
+    "id": "fig-005609",
+    "name": "Carnage",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005609.jpg"
+  },
+  {
+    "id": "fig-011312",
+    "name": "Carnage, Two Long and Two Short Tentacles",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011312.jpg"
+  },
+  {
+    "id": "fig-005498",
+    "name": "Carnage with Long Tentacles",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005498.jpg"
+  },
+  {
+    "id": "fig-005074",
+    "name": "Carnage with Red Tentacles",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005074.jpg"
+  },
+  {
+    "id": "fig-010832",
+    "name": "Carnage with Short Tentacles",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010832.jpg"
+  },
+  {
+    "id": "fig-005584",
+    "name": "Chitauri",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005584.jpg"
+  },
+  {
+    "id": "fig-011397",
+    "name": "Chitauri",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 8,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011397.jpg"
+  },
+  {
+    "id": "fig-004586",
+    "name": "Chitauri Foot Soldier",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004586.jpg"
+  },
+  {
+    "id": "fig-004587",
+    "name": "Chitauri General",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004587.jpg"
+  },
+  {
+    "id": "fig-005436",
+    "name": "Corvus Glaive",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005436.jpg"
+  },
+  {
+    "id": "fig-005307",
+    "name": "Crossbones",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005307.jpg"
+  },
+  {
+    "id": "fig-005457",
+    "name": "Cull Obsidian (Big Fig)",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005457.jpg"
+  },
+  {
+    "id": "fig-005024",
+    "name": "Cyclops",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005024.jpg"
+  },
+  {
+    "id": "fig-014567",
+    "name": "Cyclops, Hair",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014567.jpg"
+  },
+  {
+    "id": "fig-015605",
+    "name": "Cyclops, Hair, Printed Legs",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015605.jpg"
+  },
+  {
+    "id": "fig-011294",
+    "name": "Daredevil",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011294.jpg"
+  },
+  {
+    "id": "fig-004582",
+    "name": "Deadpool",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004582.jpg"
+  },
+  {
+    "id": "fig-011687",
+    "name": "Deadpool Duck",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011687.jpg"
+  },
+  {
+    "id": "fig-012906",
+    "name": "Dead Strange",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012906.jpg"
+  },
+  {
+    "id": "fig-011262",
+    "name": "Death Dealer",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011262.jpg"
+  },
+  {
+    "id": "fig-005568",
+    "name": "Dock Worker",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005568.jpg"
+  },
+  {
+    "id": "fig-018134",
+    "name": "Doctor Doom",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018134.jpg"
+  },
+  {
+    "id": "fig-005331",
+    "name": "Doctor Strange",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005331.jpg"
+  },
+  {
+    "id": "fig-011848",
+    "name": "Doctor Strange, Plastic Cape",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011848.jpg"
+  },
+  {
+    "id": "fig-012090",
+    "name": "Doctor Strange, Plastic Cape, High Medallion",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 6,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012090.jpg"
+  },
+  {
+    "id": "fig-018298",
+    "name": "Doctor Strange, Plastic Cape, High Medallion, Plain Hair",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018298.jpg"
+  },
+  {
+    "id": "fig-005456",
+    "name": "Doctor Strange with Red Cape and Collar",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005456.jpg"
+  },
+  {
+    "id": "fig-017673",
+    "name": "DODC Guard",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017673.jpg"
+  },
+  {
+    "id": "fig-005027",
+    "name": "Drax",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005027.jpg"
+  },
+  {
+    "id": "fig-015357",
+    "name": "Drax",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015357.jpg"
+  },
+  {
+    "id": "fig-013663",
+    "name": "Drax, Dark Blue Outfit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013663.jpg"
+  },
+  {
+    "id": "fig-005388",
+    "name": "Drax with Sand Blue Legs",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005388.jpg"
+  },
+  {
+    "id": "fig-004894",
+    "name": "Dr. Doom",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004894.jpg"
+  },
+  {
+    "id": "fig-018196",
+    "name": "Dr. Doom, Cape, Neck Armor",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018196.jpg"
+  },
+  {
+    "id": "fig-014442",
+    "name": "Dr. Erik Selvig",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014442.jpg"
+  },
+  {
+    "id": "fig-014220",
+    "name": "Dr. Octopus / Doc Ock, Black Sunglasses",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014220.jpg"
+  },
+  {
+    "id": "fig-011240",
+    "name": "Dr. Octopus / Doc Ock, Dark Green Outfit",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011240.jpg"
+  },
+  {
+    "id": "fig-017273",
+    "name": "Dr. Octopus / Doc Ock, Dark Green Outfit, Black Goggles",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017273.jpg"
+  },
+  {
+    "id": "fig-012859",
+    "name": "Dr. Octopus / Doc Ock, Dark Green Outfit, Large Arms",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012859.jpg"
+  },
+  {
+    "id": "fig-010826",
+    "name": "Dr. Octopus / Doc Ock, Dark Green Outfit, Neck Bracket",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010826.jpg"
+  },
+  {
+    "id": "fig-014706",
+    "name": "Dr. Octopus / Doc Ock, Dark Green Outfit, Robot Arms",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014706.jpg"
+  },
+  {
+    "id": "fig-012106",
+    "name": "Dr. Octopus / Doc Ock, Female, Flat Silver Arms",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012106.jpg"
+  },
+  {
+    "id": "fig-013579",
+    "name": "Dr. Octopus / Doc Ock, Female, Light Bluish Gray Arms",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013579.jpg"
+  },
+  {
+    "id": "fig-016619",
+    "name": "Dr. Octopus / Doc Ock Four-pointed Tentancles",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016619.jpg"
+  },
+  {
+    "id": "fig-005334",
+    "name": "Dr. Octopus / Doc Ock in Bright Green and Yellow Outfit with No Tentacles",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005334.jpg"
+  },
+  {
+    "id": "fig-005600",
+    "name": "Dr. Octopus / Doc Ock in Green Outfit with Back Arms with Claws",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005600.jpg"
+  },
+  {
+    "id": "fig-005567",
+    "name": "Dr. Octopus / Doc Ock in Green Outfit with Small Back Arms",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005567.jpg"
+  },
+  {
+    "id": "fig-017253",
+    "name": "Dr. Octopus / Doc Ock, Medium Legs",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017253.jpg"
+  },
+  {
+    "id": "fig-005005",
+    "name": "Dr. Octopus / Doc Ock with Long White Lab Coat",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005005.jpg"
+  },
+  {
+    "id": "fig-004594",
+    "name": "Dr. Octopus / Doc Ock with Red Sunglasses and Light Bluish Gray Suit",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004594.jpg"
+  },
+  {
+    "id": "fig-011810",
+    "name": "Druig",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011810.jpg"
+  },
+  {
+    "id": "fig-014490",
+    "name": "Dum-E",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014490.jpg"
+  },
+  {
+    "id": "fig-015922",
+    "name": "Dum-E",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015922.jpg"
+  },
+  {
+    "id": "fig-016238",
+    "name": "Dum-E, Black Claw",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016238.jpg"
+  },
+  {
+    "id": "fig-005455",
+    "name": "Ebony Maw, Light Aqua Head",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005455.jpg"
+  },
+  {
+    "id": "fig-012899",
+    "name": "Ebony Maw, Light Bluish Gray Head",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012899.jpg"
+  },
+  {
+    "id": "fig-016612",
+    "name": "Eddie Brock & Venom",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016612.jpg"
+  },
+  {
+    "id": "fig-001457",
+    "name": "Electro (Amazing Spider-Man 2)",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001457.jpg"
+  },
+  {
+    "id": "fig-014221",
+    "name": "Electro (Amazing Spider-Man) with Lightning",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014221.jpg"
+  },
+  {
+    "id": "fig-014597",
+    "name": "Electro (Amazing Spider-Man) with Small Lightning",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014597.jpg"
+  },
+  {
+    "id": "fig-005006",
+    "name": "Electro with Trans-Medium Blue Head and Arms",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005006.jpg"
+  },
+  {
+    "id": "fig-005442",
+    "name": "Erik Killmonger",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005442.jpg"
+  },
+  {
+    "id": "fig-005445",
+    "name": "Erik Killmonger / Golden Jaguar",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005445.jpg"
+  },
+  {
+    "id": "fig-004885",
+    "name": "Extremis Soldier",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004885.jpg"
+  },
+  {
+    "id": "fig-009690",
+    "name": "Falcon",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009690.jpg"
+  },
+  {
+    "id": "fig-005432",
+    "name": "Falcon in Dark Bluish Gray and Black Suit with Neck Bracket",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005432.jpg"
+  },
+  {
+    "id": "fig-005037",
+    "name": "Falcon in Red and White Outfit",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005037.jpg"
+  },
+  {
+    "id": "fig-015683",
+    "name": "Falcon, Joaquín Torres",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015683.jpg"
+  },
+  {
+    "id": "fig-014447",
+    "name": "Falcon, Neck Bracket, Printed Legs",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014447.jpg"
+  },
+  {
+    "id": "fig-005308",
+    "name": "Falcon with Light Bluish Gray and Dark Red Wings",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005308.jpg"
+  },
+  {
+    "id": "fig-015355",
+    "name": "Fire Demon",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015355.jpg"
+  },
+  {
+    "id": "fig-005582",
+    "name": "Firefighter with Reddish Brown Skin and Dark Red Fire Helmet",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005582.jpg"
+  },
+  {
+    "id": "fig-011295",
+    "name": "Firestar",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011295.jpg"
+  },
+  {
+    "id": "fig-013581",
+    "name": "Flint Marco / Sandman",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013581.jpg"
+  },
+  {
+    "id": "fig-014217",
+    "name": "Friendly Neighborhood Spider-Man",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014217.jpg"
+  },
+  {
+    "id": "fig-015609",
+    "name": "Gambit",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015609.jpg"
+  },
+  {
+    "id": "fig-015358",
+    "name": "Gamora",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015358.jpg"
+  },
+  {
+    "id": "fig-005390",
+    "name": "Gamora in Dark Bluish Gray and Silver Outfit",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005390.jpg"
+  },
+  {
+    "id": "fig-005029",
+    "name": "Gamora in Dark Red Outfit",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005029.jpg"
+  },
+  {
+    "id": "fig-005427",
+    "name": "Gamora in Long Reddish Brown Coat",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005427.jpg"
+  },
+  {
+    "id": "fig-005452",
+    "name": "Ghost (Ava Starr)",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005452.jpg"
+  },
+  {
+    "id": "fig-017260",
+    "name": "Ghost Rider",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017260.jpg"
+  },
+  {
+    "id": "fig-010833",
+    "name": "Ghost Rider, Flat Silver Head",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010833.jpg"
+  },
+  {
+    "id": "fig-013378",
+    "name": "Ghost Rider, White Head",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013378.jpg"
+  },
+  {
+    "id": "fig-005337",
+    "name": "Ghost Rider, White Head, Torn Jacket",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005337.jpg"
+  },
+  {
+    "id": "fig-005491",
+    "name": "Ghost-Spider / Spider-Gwen, Closed Front Hood",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005491.jpg"
+  },
+  {
+    "id": "fig-012105",
+    "name": "Ghost-Spider / Spider-Gwen, Medium Legs",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012105.jpg"
+  },
+  {
+    "id": "fig-013580",
+    "name": "Ghost-Spider / Spider-Gwen, Medium Legs, Bubble Helmet",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013580.jpg"
+  },
+  {
+    "id": "fig-015911",
+    "name": "Ghost-Spider / Spider-Gwen, Medium Legs, Lime Spider Print",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015911.jpg"
+  },
+  {
+    "id": "fig-013527",
+    "name": "Ghost-Spider / Spider-Gwen, Medium Legs, White Spider Print",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013527.jpg"
+  },
+  {
+    "id": "fig-015916",
+    "name": "Ghost-Spider / Spider-Gwen, Open Front Hood, Magenta Hands",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015916.jpg"
+  },
+  {
+    "id": "fig-010828",
+    "name": "Ghost-Spider / Spider-Gwen, Open Front Hood, White Hands",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 11,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010828.jpg"
+  },
+  {
+    "id": "fig-001721",
+    "name": "Giant Man (Hank Pym)",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001721.jpg"
+  },
+  {
+    "id": "fig-011813",
+    "name": "Gilgamesh",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011813.jpg"
+  },
+  {
+    "id": "fig-012574",
+    "name": "Gorr",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012574.jpg"
+  },
+  {
+    "id": "fig-005396",
+    "name": "Grandmaster",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005396.jpg"
+  },
+  {
+    "id": "fig-011101",
+    "name": "Green Goblin",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011101.jpg"
+  },
+  {
+    "id": "fig-005046",
+    "name": "Green Goblin (Big Fig)",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005046.jpg"
+  },
+  {
+    "id": "fig-016610",
+    "name": "Green Goblin, Dark Purple Hood",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016610.jpg"
+  },
+  {
+    "id": "fig-014219",
+    "name": "Green Goblin, Hair",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014219.jpg"
+  },
+  {
+    "id": "fig-005569",
+    "name": "Green Goblin in Dark Purple Outfit",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005569.jpg"
+  },
+  {
+    "id": "fig-005324",
+    "name": "Green Goblin in Magenta Outfit",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005324.jpg"
+  },
+  {
+    "id": "fig-012100",
+    "name": "Green Goblin, Medium Legs",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012100.jpg"
+  },
+  {
+    "id": "fig-017257",
+    "name": "Green Goblin, Medium Legs, Tricorn",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017257.jpg"
+  },
+  {
+    "id": "fig-012418",
+    "name": "Green Goblin, Plain Legs",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012418.jpg"
+  },
+  {
+    "id": "fig-014825",
+    "name": "Green Goblin, Short Legs",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014825.jpg"
+  },
+  {
+    "id": "fig-005372",
+    "name": "Green Goblin with Short Legs",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005372.jpg"
+  },
+  {
+    "id": "fig-005438",
+    "name": "Groot, Teen",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005438.jpg"
+  },
+  {
+    "id": "fig-011393",
+    "name": "Groot, Teen",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011393.jpg"
+  },
+  {
+    "id": "fig-013668",
+    "name": "Groot, Teen with Shoulder Pads",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013668.jpg"
+  },
+  {
+    "id": "fig-011309",
+    "name": "Gwen Stacy",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011309.jpg"
+  },
+  {
+    "id": "fig-014827",
+    "name": "Gwen Stacy / Ghost-Spider, Short Legs",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014827.jpg"
+  },
+  {
+    "id": "fig-014822",
+    "name": "Gwen Stacy / Ghost-Spider, Short Legs, Bat Wings",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014822.jpg"
+  },
+  {
+    "id": "fig-017254",
+    "name": "Gwen Stacy / Spider-Gwen, Medium Legs",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017254.jpg"
+  },
+  {
+    "id": "fig-017256",
+    "name": "Gwen Stacy / Spider-Gwen, Medium Legs, Bicorn",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017256.jpg"
+  },
+  {
+    "id": "fig-005576",
+    "name": "Happy Hogan",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005576.jpg"
+  },
+  {
+    "id": "fig-002207",
+    "name": "Hawkeye",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002207.jpg"
+  },
+  {
+    "id": "fig-017692",
+    "name": "Hawkeye, Black Outfit",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017692.jpg"
+  },
+  {
+    "id": "fig-015394",
+    "name": "Hawkeye, Black Suit, Quiver",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015394.jpg"
+  },
+  {
+    "id": "fig-014437",
+    "name": "Hawkeye, Dark Tan Hair, Dark Red Hand",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014437.jpg"
+  },
+  {
+    "id": "fig-005605",
+    "name": "Hawkeye in Black and Dark Purple Outfit with Dark Purple Goggles, and Quiver",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005605.jpg"
+  },
+  {
+    "id": "fig-005056",
+    "name": "Hawkeye in Black and Dark Red Outfit",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005056.jpg"
+  },
+  {
+    "id": "fig-005587",
+    "name": "Hawkeye, White Advanced Tech (Quantum) Suit and Quiver",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005587.jpg"
+  },
+  {
+    "id": "fig-000460",
+    "name": "Hawkeye with Red Glasses",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000460.jpg"
+  },
+  {
+    "id": "fig-002569",
+    "name": "Hela",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002569.jpg"
+  },
+  {
+    "id": "fig-014434",
+    "name": "Helen Cho",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014434.jpg"
+  },
+  {
+    "id": "fig-005338",
+    "name": "Hobgoblin",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005338.jpg"
+  },
+  {
+    "id": "fig-016645",
+    "name": "Hobgoblin, Rubber Cape",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016645.jpg"
+  },
+  {
+    "id": "fig-017668",
+    "name": "Hotdog Vendor",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017668.jpg"
+  },
+  {
+    "id": "fig-013379",
+    "name": "Hulk",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013379.jpg"
+  },
+  {
+    "id": "fig-005571",
+    "name": "Hulk (Big Fig), Black Hair, Dark Blue Pants",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005571.jpg"
+  },
+  {
+    "id": "fig-005036",
+    "name": "Hulk (Big Fig), Black Hair, Dark Purple Pants",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005036.jpg"
+  },
+  {
+    "id": "fig-002208",
+    "name": "Hulk (Big Fig), Black Hair, Dark Purple Pants with Print",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002208.jpg"
+  },
+  {
+    "id": "fig-004590",
+    "name": "Hulk (Big Fig), Black Hair, Dark Tan Pants",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004590.jpg"
+  },
+  {
+    "id": "fig-008919",
+    "name": "Hulk (Big Fig), Black Hair, Magenta Pants",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008919.jpg"
+  },
+  {
+    "id": "fig-015395",
+    "name": "Hulk (Big Fig), Black Hair, Removable Head, Dark Bluish Grey Pants, Angry",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015395.jpg"
+  },
+  {
+    "id": "fig-014429",
+    "name": "Hulk (Big Fig), Black Hair, Removable Head, Sand Blue Pants, Smiling",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014429.jpg"
+  },
+  {
+    "id": "fig-005342",
+    "name": "Hulk (Big Fig), Dark Green Hair, Magenta Pants",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005342.jpg"
+  },
+  {
+    "id": "fig-005395",
+    "name": "Hulk (Big Fig), Helmet, Armor, Black Pants",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005395.jpg"
+  },
+  {
+    "id": "fig-017671",
+    "name": "Hulk (Big Fig), Olive Green, Black Hair, Removable Head, Reddish Brown Pants, Dark Green Eyes",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017671.jpg"
+  },
+  {
+    "id": "fig-015389",
+    "name": "Hulk (Big Fig), Olive Green, Black Hair, Removable Head, Sand Blue Pants",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015389.jpg"
+  },
+  {
+    "id": "fig-017278",
+    "name": "Hulk (Big Fig), Olive Green, Black Hair, Removable Head, Sand Blue Pants, Red Eyes",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017278.jpg"
+  },
+  {
+    "id": "fig-005603",
+    "name": "Hulk (Big Fig), White Jumpsuit with Avengers Logo",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005603.jpg"
+  },
+  {
+    "id": "fig-017882",
+    "name": "Hulk, Dark Purple Legs",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017882.jpg"
+  },
+  {
+    "id": "fig-015356",
+    "name": "Hulk, Dark Purple Pants, Dual Molded Legs, Smile",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015356.jpg"
+  },
+  {
+    "id": "fig-012102",
+    "name": "Hulk, Dark Purple Pants, Dual Molded Legs, Smirk",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012102.jpg"
+  },
+  {
+    "id": "fig-000028",
+    "name": "Hulk, Dark Purple Pants, Printed",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000028.jpg"
+  },
+  {
+    "id": "fig-000473",
+    "name": "Hulk, Dark Purple Pants, Printed Dark Red Stripes and Avengers Logo",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000473.jpg"
+  },
+  {
+    "id": "fig-015967",
+    "name": "Hulk, Minifig, Dark Bluish Grey Legs",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015967.jpg"
+  },
+  {
+    "id": "fig-016225",
+    "name": "Hulk, Minifig, Yellow Helmet",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016225.jpg"
+  },
+  {
+    "id": "fig-005369",
+    "name": "Hulk, Short Legs",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005369.jpg"
+  },
+  {
+    "id": "fig-011409",
+    "name": "HYDRA Agent",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011409.jpg"
+  },
+  {
+    "id": "fig-005043",
+    "name": "HYDRA Henchman",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005043.jpg"
+  },
+  {
+    "id": "fig-005057",
+    "name": "HYDRA Henchman in Chitauri Armor",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005057.jpg"
+  },
+  {
+    "id": "fig-005220",
+    "name": "HYDRA Henchman in Diver Outfit",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005220.jpg"
+  },
+  {
+    "id": "fig-015363",
+    "name": "Hydra Trooper",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015363.jpg"
+  },
+  {
+    "id": "fig-015390",
+    "name": "Hydra Trooper, Neck Bracket",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015390.jpg"
+  },
+  {
+    "id": "fig-005579",
+    "name": "Hydro-Man",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005579.jpg"
+  },
+  {
+    "id": "fig-005314",
+    "name": "Hyperion",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005314.jpg"
+  },
+  {
+    "id": "fig-015607",
+    "name": "Iceman",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015607.jpg"
+  },
+  {
+    "id": "fig-011808",
+    "name": "Ikaris",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011808.jpg"
+  },
+  {
+    "id": "fig-004593",
+    "name": "Iron Fist",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004593.jpg"
+  },
+  {
+    "id": "fig-017698",
+    "name": "Ironheart, Helmet, Short Legs",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017698.jpg"
+  },
+  {
+    "id": "fig-013137",
+    "name": "Ironheart MK1",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013137.jpg"
+  },
+  {
+    "id": "fig-013146",
+    "name": "Ironheart MK2",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013146.jpg"
+  },
+  {
+    "id": "fig-017697",
+    "name": "Iron Hulk",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017697.jpg"
+  },
+  {
+    "id": "fig-015362",
+    "name": "Iron Legion, Dark Blue Head",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015362.jpg"
+  },
+  {
+    "id": "fig-016037",
+    "name": "Iron Legion, Dark Blue Head, Neck Bracket",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016037.jpg"
+  },
+  {
+    "id": "fig-005068",
+    "name": "Iron Legion, Trans-Orange Head",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005068.jpg"
+  },
+  {
+    "id": "fig-005348",
+    "name": "Iron Man / Invincible Iron Man",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005348.jpg"
+  },
+  {
+    "id": "fig-005019",
+    "name": "Iron Man Mark 17 Armor / Heartbreaker Armor",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005019.jpg"
+  },
+  {
+    "id": "fig-005462",
+    "name": "Iron Man Mark 1 Armor",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005462.jpg"
+  },
+  {
+    "id": "fig-010253",
+    "name": "Iron Man Mark 22 Armor / Blazer (Hot Rod) Armor",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010253.jpg"
+  },
+  {
+    "id": "fig-012660",
+    "name": "Iron Man Mark 25 Armor / Striker (Thumper) Armor",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012660.jpg"
+  },
+  {
+    "id": "fig-010279",
+    "name": "Iron Man Mark 2 Armor",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010279.jpg"
+  },
+  {
+    "id": "fig-010252",
+    "name": "Iron Man Mark 30 Armor / Tazer (Blue Steel) Armor",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010252.jpg"
+  },
+  {
+    "id": "fig-005623",
+    "name": "Iron Man Mark 33 Armor / Silver Centurion Armor",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005623.jpg"
+  },
+  {
+    "id": "fig-005221",
+    "name": "Iron Man Mark 37 Scuba Suit / Hammerhead Armor",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005221.jpg"
+  },
+  {
+    "id": "fig-005309",
+    "name": "Iron Man Mark 39 Armor, White Space Suit / Gemini (Starboost) Armor",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005309.jpg"
+  },
+  {
+    "id": "fig-011400",
+    "name": "Iron Man Mark 3 Armor, Black Hair",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011400.jpg"
+  },
+  {
+    "id": "fig-017280",
+    "name": "Iron Man Mark 3 Armor, Sunglasses",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017280.jpg"
+  },
+  {
+    "id": "fig-012862",
+    "name": "Iron Man Mark 3 Armor, Trans-Light Blue Head",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012862.jpg"
+  },
+  {
+    "id": "fig-005460",
+    "name": "Iron Man Mark 41 Armor / Bones Armor",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005460.jpg"
+  },
+  {
+    "id": "fig-004892",
+    "name": "Iron Man Mark 42 Armor",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004892.jpg"
+  },
+  {
+    "id": "fig-012416",
+    "name": "Iron Man Mark 42 Armor, Pearl Gold Legs",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012416.jpg"
+  },
+  {
+    "id": "fig-004886",
+    "name": "Iron Man Mark 42 Armor, Plain White Head",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004886.jpg"
+  },
+  {
+    "id": "fig-005064",
+    "name": "Iron Man Mark 43 Armor",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005064.jpg"
+  },
+  {
+    "id": "fig-005430",
+    "name": "Iron Man Mark 43 Armor, Plain Trans-Clear Head",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005430.jpg"
+  },
+  {
+    "id": "fig-015361",
+    "name": "Iron Man Mark 43 Armor, Red Panels",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015361.jpg"
+  },
+  {
+    "id": "fig-017279",
+    "name": "Iron Man Mark 43 Armor, Sunglasses",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017279.jpg"
+  },
+  {
+    "id": "fig-005593",
+    "name": "Iron Man Mark 43 Armor, Visor Printed on Helmet",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 8,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005593.jpg"
+  },
+  {
+    "id": "fig-010276",
+    "name": "Iron Man Mark 43 Armor, Visor Printed on Helmet, Plain Trans-Clear Head",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010276.jpg"
+  },
+  {
+    "id": "fig-005053",
+    "name": "Iron Man Mark 45 Armor",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005053.jpg"
+  },
+  {
+    "id": "fig-005306",
+    "name": "Iron Man Mark 46 Armor",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005306.jpg"
+  },
+  {
+    "id": "fig-015927",
+    "name": "Iron Man Mark 46 Armor, HUD on Face",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015927.jpg"
+  },
+  {
+    "id": "fig-005383",
+    "name": "Iron Man Mark 47 Armor",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005383.jpg"
+  },
+  {
+    "id": "fig-016405",
+    "name": "Iron Man Mark 4 Armor",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016405.jpg"
+  },
+  {
+    "id": "fig-005454",
+    "name": "Iron Man Mark 50 Armor",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005454.jpg"
+  },
+  {
+    "id": "fig-012900",
+    "name": "Iron Man Mark 50 Armor, 80429 Helmet",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012900.jpg"
+  },
+  {
+    "id": "fig-005428",
+    "name": "Iron Man Mark 50 Armor, with Neck Bracket",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005428.jpg"
+  },
+  {
+    "id": "fig-005463",
+    "name": "Iron Man Mark 5 Armor",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005463.jpg"
+  },
+  {
+    "id": "fig-001372",
+    "name": "Iron Man Mark 6 Armor",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001372.jpg"
+  },
+  {
+    "id": "fig-014435",
+    "name": "Iron Man Mark 6 Armor, Battle Damage",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014435.jpg"
+  },
+  {
+    "id": "fig-015926",
+    "name": "Iron Man Mark 6 Armor, HUD on Face",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015926.jpg"
+  },
+  {
+    "id": "fig-016230",
+    "name": "Iron Man Mark 6 Armor, Trans-Light Blue Head",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016230.jpg"
+  },
+  {
+    "id": "fig-004592",
+    "name": "Iron Man Mark 7 Armor, No Red Panels",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004592.jpg"
+  },
+  {
+    "id": "fig-013393",
+    "name": "Iron Man Mark 7 Armor, Red Panels",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013393.jpg"
+  },
+  {
+    "id": "fig-013191",
+    "name": "Iron Man Mark 85 Armor, Black Hair",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013191.jpg"
+  },
+  {
+    "id": "fig-014288",
+    "name": "Iron Man Mark 85 Armor, Pearl Gold Arms, Angular Helmet",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014288.jpg"
+  },
+  {
+    "id": "fig-016247",
+    "name": "Iron Man Mark 85 Armor, Pearl Gold Arms, Angular Helmet",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016247.jpg"
+  },
+  {
+    "id": "fig-017862",
+    "name": "Iron Man Mark 85 Armor, Pearl Gold Arms, Angular Helmet, Neck Bracket",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017862.jpg"
+  },
+  {
+    "id": "fig-005574",
+    "name": "Iron Man Mark 85 Armor, Pearl Gold Arms, Rounded Helmet",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005574.jpg"
+  },
+  {
+    "id": "fig-012661",
+    "name": "Iron Man Mark 85 Armor, Pearl Gold Arms, Trans-Light Blue Head",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012661.jpg"
+  },
+  {
+    "id": "fig-017700",
+    "name": "Iron Man, Medium Legs",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017700.jpg"
+  },
+  {
+    "id": "fig-010311",
+    "name": "Iron Man, Nanofig",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010311.jpg"
+  },
+  {
+    "id": "fig-014185",
+    "name": "Iron Man, Pearl Gold Arms, Round Arc Reactor, Full Helmet",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014185.jpg"
+  },
+  {
+    "id": "fig-015436",
+    "name": "Iron Man, Pearl Gold Arms, Round Arc Reactor, Hair",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015436.jpg"
+  },
+  {
+    "id": "fig-015921",
+    "name": "Iron Man, Pearl Gold Arms, Round Arc Reactor, Helmet and Visor",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015921.jpg"
+  },
+  {
+    "id": "fig-014826",
+    "name": "Iron Man (Spidey & His Amazing Friends)",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014826.jpg"
+  },
+  {
+    "id": "fig-013188",
+    "name": "Iron Man (Toy Fair 2012 Exclusive)",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013188.jpg"
+  },
+  {
+    "id": "fig-002011",
+    "name": "Iron Man, White Advanced Tech (Quantum) Suit with Neck Bracket",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002011.jpg"
+  },
+  {
+    "id": "fig-005359",
+    "name": "Iron Man with Short Legs",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005359.jpg"
+  },
+  {
+    "id": "fig-004605",
+    "name": "Iron Patriot MK 1",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004605.jpg"
+  },
+  {
+    "id": "fig-018059",
+    "name": "Iron Patriot MK1, Black Neckbracket",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018059.jpg"
+  },
+  {
+    "id": "fig-016229",
+    "name": "Iron Patriot MK1, Grey Neckbracket",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016229.jpg"
+  },
+  {
+    "id": "fig-016637",
+    "name": "Iron Patriot MK 2",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016637.jpg"
+  },
+  {
+    "id": "fig-005223",
+    "name": "Iron Skull",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005223.jpg"
+  },
+  {
+    "id": "fig-005071",
+    "name": "Iron Spider",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005071.jpg"
+  },
+  {
+    "id": "fig-016590",
+    "name": "Iron Spider-Man, Plain Legs, 3171 Claws",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016590.jpg"
+  },
+  {
+    "id": "fig-016246",
+    "name": "Iron Spider-Man, Plain Legs, 53451 Claws",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016246.jpg"
+  },
+  {
+    "id": "fig-005458",
+    "name": "Iron Spider-Man, Printed Legs",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005458.jpg"
+  },
+  {
+    "id": "fig-008922",
+    "name": "Iron Spider with Neck Bracket and One-Piece Mechanical Arms",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008922.jpg"
+  },
+  {
+    "id": "fig-011097",
+    "name": "Iron Spider with Neck Bracket and Two-Piece Mechanical Arms",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011097.jpg"
+  },
+  {
+    "id": "fig-005610",
+    "name": "Iron Venom",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005610.jpg"
+  },
+  {
+    "id": "fig-011231",
+    "name": "Iron Venom",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011231.jpg"
+  },
+  {
+    "id": "fig-015606",
+    "name": "Jean Grey, Bright Light Orange Suit",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015606.jpg"
+  },
+  {
+    "id": "fig-000788",
+    "name": "Jean Grey in Phoenix Costume",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000788.jpg"
+  },
+  {
+    "id": "fig-011304",
+    "name": "J. Jonah Jameson, Black Suit, Dark Bluish Gray Hair",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011304.jpg"
+  },
+  {
+    "id": "fig-017277",
+    "name": "J. Jonah Jameson, Dark Blue Suit, Light Bluish Gray Hair",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017277.jpg"
+  },
+  {
+    "id": "fig-016617",
+    "name": "J. Jonah Jameson, Dark Blue Suit, Reddish Brown Hair",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016617.jpg"
+  },
+  {
+    "id": "fig-004895",
+    "name": "J. Jonah Jameson, Sand Blue Suit",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004895.jpg"
+  },
+  {
+    "id": "fig-016410",
+    "name": "Johnny Storm / Human Torch",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016410.jpg"
+  },
+  {
+    "id": "fig-018207",
+    "name": "Jonathan Storm / Human Torch",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018207.jpg"
+  },
+  {
+    "id": "fig-005346",
+    "name": "Justin Hammer",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005346.jpg"
+  },
+  {
+    "id": "fig-005332",
+    "name": "Karl Mordo",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005332.jpg"
+  },
+  {
+    "id": "fig-011258",
+    "name": "Katy",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011258.jpg"
+  },
+  {
+    "id": "fig-014427",
+    "name": "Kevin Feige",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014427.jpg"
+  },
+  {
+    "id": "fig-014448",
+    "name": "Kevin Feige, Dark Blue Torso",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014448.jpg"
+  },
+  {
+    "id": "fig-013141",
+    "name": "King Namor",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013141.jpg"
+  },
+  {
+    "id": "fig-011811",
+    "name": "Kingo",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011811.jpg"
+  },
+  {
+    "id": "fig-012577",
+    "name": "King Valkyrie",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012577.jpg"
+  },
+  {
+    "id": "fig-011617",
+    "name": "Korg",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011617.jpg"
+  },
+  {
+    "id": "fig-012576",
+    "name": "Korg, Fur Collar",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012576.jpg"
+  },
+  {
+    "id": "fig-012420",
+    "name": "Korg, Shoulder Armour",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012420.jpg"
+  },
+  {
+    "id": "fig-005325",
+    "name": "Kraven The Hunter",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005325.jpg"
+  },
+  {
+    "id": "fig-016611",
+    "name": "Kraven the Hunter, Reddish Brown Legs",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016611.jpg"
+  },
+  {
+    "id": "fig-018201",
+    "name": "Kurt Wagner / Nightcrawler",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018201.jpg"
+  },
+  {
+    "id": "fig-005397",
+    "name": "Loki, Dark Blue Outfit",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005397.jpg"
+  },
+  {
+    "id": "fig-004581",
+    "name": "Loki, Dark Bluish Gray Outfit",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004581.jpg"
+  },
+  {
+    "id": "fig-009580",
+    "name": "Loki, Dark Green Outfit",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009580.jpg"
+  },
+  {
+    "id": "fig-013392",
+    "name": "Loki, Pearl Titanium Outfit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013392.jpg"
+  },
+  {
+    "id": "fig-015396",
+    "name": "Loki, Rubber Cape",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015396.jpg"
+  },
+  {
+    "id": "fig-017699",
+    "name": "Loki, Rubber Cape, Pearl Gold Outfit",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017699.jpg"
+  },
+  {
+    "id": "fig-005422",
+    "name": "Loki, Short Legs",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005422.jpg"
+  },
+  {
+    "id": "fig-005026",
+    "name": "Magneto, Dark Purple Outfit with Hair",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005026.jpg"
+  },
+  {
+    "id": "fig-014571",
+    "name": "Magneto, Magenta Outfit",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014571.jpg"
+  },
+  {
+    "id": "fig-004584",
+    "name": "Magneto, Red Outfit",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004584.jpg"
+  },
+  {
+    "id": "fig-015610",
+    "name": "Magneto, Rubber Cape",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015610.jpg"
+  },
+  {
+    "id": "fig-018200",
+    "name": "Magneto, Rubber Cape",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018200.jpg"
+  },
+  {
+    "id": "fig-005358",
+    "name": "Magneto with Short Legs",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005358.jpg"
+  },
+  {
+    "id": "fig-011806",
+    "name": "Makkari",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011806.jpg"
+  },
+  {
+    "id": "fig-005339",
+    "name": "Mantis",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005339.jpg"
+  },
+  {
+    "id": "fig-011394",
+    "name": "Mantis",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011394.jpg"
+  },
+  {
+    "id": "fig-013665",
+    "name": "Mantis, Dark Blue Outfit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013665.jpg"
+  },
+  {
+    "id": "fig-017691",
+    "name": "Maria Hill, Dark Blue Outfit",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017691.jpg"
+  },
+  {
+    "id": "fig-005239",
+    "name": "Maria Hill in Dark Blue Outfit",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005239.jpg"
+  },
+  {
+    "id": "fig-004610",
+    "name": "Maria Hill with Black Jacket and Dark Blue Legs",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004610.jpg"
+  },
+  {
+    "id": "fig-005611",
+    "name": "Maria Rambeau",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005611.jpg"
+  },
+  {
+    "id": "fig-016642",
+    "name": "Mary Jane, Medium Nougat Jacket, Sand Blue Legs, Red Hair",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016642.jpg"
+  },
+  {
+    "id": "fig-005045",
+    "name": "Mary Jane with Heart Spider-man Logo on Shirt",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005045.jpg"
+  },
+  {
+    "id": "fig-012905",
+    "name": "Master Karl Mordo, Sand Green Outfit",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012905.jpg"
+  },
+  {
+    "id": "fig-014821",
+    "name": "Max Dillon / Electro",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014821.jpg"
+  },
+  {
+    "id": "fig-013140",
+    "name": "M'Baku",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013140.jpg"
+  },
+  {
+    "id": "fig-011615",
+    "name": "Miek",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011615.jpg"
+  },
+  {
+    "id": "fig-012419",
+    "name": "Miek, Mech Body",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012419.jpg"
+  },
+  {
+    "id": "fig-012575",
+    "name": "Mighty Thor",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012575.jpg"
+  },
+  {
+    "id": "fig-017255",
+    "name": "Miles Morales, Bicorn",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017255.jpg"
+  },
+  {
+    "id": "fig-011290",
+    "name": "Miles Morales, Classic Suit",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011290.jpg"
+  },
+  {
+    "id": "fig-014820",
+    "name": "Miles Morales, Medium Legs",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014820.jpg"
+  },
+  {
+    "id": "fig-011849",
+    "name": "MJ, Dark Bluish Gray Plaid Shirt",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011849.jpg"
+  },
+  {
+    "id": "fig-005578",
+    "name": "MJ (Michelle Jones)",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005578.jpg"
+  },
+  {
+    "id": "fig-014223",
+    "name": "MJ, Striped Sweater",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014223.jpg"
+  },
+  {
+    "id": "fig-005038",
+    "name": "MODOK",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005038.jpg"
+  },
+  {
+    "id": "fig-013380",
+    "name": "Morbius",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013380.jpg"
+  },
+  {
+    "id": "fig-014390",
+    "name": "Ms. Marvel",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014390.jpg"
+  },
+  {
+    "id": "fig-005351",
+    "name": "Ms. Marvel, Long Arms",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005351.jpg"
+  },
+  {
+    "id": "fig-012107",
+    "name": "Ms. Marvel, Medium Legs",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012107.jpg"
+  },
+  {
+    "id": "fig-005577",
+    "name": "Mysterio, Dark Green Outfit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005577.jpg"
+  },
+  {
+    "id": "fig-010829",
+    "name": "Mysterio, Green Outfit, Green Energy Cloud",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010829.jpg"
+  },
+  {
+    "id": "fig-011297",
+    "name": "Mysterio, Green Outfit, Opal Trans-Light Blue Helmet",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011297.jpg"
+  },
+  {
+    "id": "fig-017275",
+    "name": "Mysterio, Green Outfit, Opal Trans-Light Blue Helmet, Plastic Cape",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017275.jpg"
+  },
+  {
+    "id": "fig-005598",
+    "name": "Mysterio, Green Outfit, Trans-Clear Helmet",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005598.jpg"
+  },
+  {
+    "id": "fig-011802",
+    "name": "Mysterio, Pearl Gold and Dark Green Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011802.jpg"
+  },
+  {
+    "id": "fig-005443",
+    "name": "Nakia",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005443.jpg"
+  },
+  {
+    "id": "fig-013136",
+    "name": "Nakia",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013136.jpg"
+  },
+  {
+    "id": "fig-005033",
+    "name": "Nebula",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005033.jpg"
+  },
+  {
+    "id": "fig-013664",
+    "name": "Nebula, Dark Blue Outfit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013664.jpg"
+  },
+  {
+    "id": "fig-005389",
+    "name": "Nebula in Tattered Outfit",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005389.jpg"
+  },
+  {
+    "id": "fig-005570",
+    "name": "Nebula, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005570.jpg"
+  },
+  {
+    "id": "fig-005424",
+    "name": "Nebula with Short Legs",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005424.jpg"
+  },
+  {
+    "id": "fig-014224",
+    "name": "Ned Leeds, Red Letterman Jacket",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014224.jpg"
+  },
+  {
+    "id": "fig-004609",
+    "name": "Ned Leeds with Dark Red Plaid Shirt and Dark Blue Legs",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004609.jpg"
+  },
+  {
+    "id": "fig-004898",
+    "name": "Nick Fury",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004898.jpg"
+  },
+  {
+    "id": "fig-005575",
+    "name": "Nick Fury in Long Black Coat Over Gray Sweater, Line on Hips",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005575.jpg"
+  },
+  {
+    "id": "fig-017264",
+    "name": "Nick Fury in Long Black Coat Over Gray Sweater, No Line on Hips",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017264.jpg"
+  },
+  {
+    "id": "fig-005238",
+    "name": "Nick Fury in Long Leather Coat",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005238.jpg"
+  },
+  {
+    "id": "fig-017695",
+    "name": "Nick Fury, Long Coat, Dark Bluish Gray Legs Print",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017695.jpg"
+  },
+  {
+    "id": "fig-004616",
+    "name": "Nick Fury, Young",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004616.jpg"
+  },
+  {
+    "id": "fig-016614",
+    "name": "Norman Osborn, Black Suit",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016614.jpg"
+  },
+  {
+    "id": "fig-004896",
+    "name": "Nova",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004896.jpg"
+  },
+  {
+    "id": "fig-005034",
+    "name": "Nova Corps Officer",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005034.jpg"
+  },
+  {
+    "id": "fig-011402",
+    "name": "Obadiah Stane",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011402.jpg"
+  },
+  {
+    "id": "fig-015917",
+    "name": "Officer Jefferson",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015917.jpg"
+  },
+  {
+    "id": "fig-005446",
+    "name": "Okoye",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005446.jpg"
+  },
+  {
+    "id": "fig-013145",
+    "name": "Okoye",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013145.jpg"
+  },
+  {
+    "id": "fig-013384",
+    "name": "Okoye, Gold Shoulder Armor",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013384.jpg"
+  },
+  {
+    "id": "fig-005433",
+    "name": "Outrider",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 6,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005433.jpg"
+  },
+  {
+    "id": "fig-013388",
+    "name": "Outrider",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013388.jpg"
+  },
+  {
+    "id": "fig-013387",
+    "name": "Outrider",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013387.jpg"
+  },
+  {
+    "id": "fig-005470",
+    "name": "Outrider with Claws",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005470.jpg"
+  },
+  {
+    "id": "fig-005466",
+    "name": "Outrider with Shoulder Armor",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005466.jpg"
+  },
+  {
+    "id": "fig-014438",
+    "name": "Pepper Potts, Black Suit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014438.jpg"
+  },
+  {
+    "id": "fig-011403",
+    "name": "Pepper Potts, Black Suit, Ponytail",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011403.jpg"
+  },
+  {
+    "id": "fig-016227",
+    "name": "Pepper Potts, Reddish Orange Hair",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016227.jpg"
+  },
+  {
+    "id": "fig-010250",
+    "name": "Pepper Potts / Rescue, Red Armour",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010250.jpg"
+  },
+  {
+    "id": "fig-004884",
+    "name": "Pepper Potts, White Suit",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004884.jpg"
+  },
+  {
+    "id": "fig-011298",
+    "name": "Peter Parker, Red Jacket",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011298.jpg"
+  },
+  {
+    "id": "fig-011098",
+    "name": "Peter Parker, Spider-Man Suit",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011098.jpg"
+  },
+  {
+    "id": "fig-005580",
+    "name": "Peter Parker Transforming in Spider-Man",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005580.jpg"
+  },
+  {
+    "id": "fig-011805",
+    "name": "Phastos",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011805.jpg"
+  },
+  {
+    "id": "fig-014389",
+    "name": "Photon / Monica Rambeau",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014389.jpg"
+  },
+  {
+    "id": "fig-011232",
+    "name": "Pork Grind",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011232.jpg"
+  },
+  {
+    "id": "fig-005044",
+    "name": "Power Man",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005044.jpg"
+  },
+  {
+    "id": "fig-015603",
+    "name": "Professor Charles Xavier, Black Suit",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015603.jpg"
+  },
+  {
+    "id": "fig-015602",
+    "name": "Professor Charles Xavier, Dark Blue Suit",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015602.jpg"
+  },
+  {
+    "id": "fig-005431",
+    "name": "Proxima Midnight",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005431.jpg"
+  },
+  {
+    "id": "fig-005243",
+    "name": "Quicksilver",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005243.jpg"
+  },
+  {
+    "id": "fig-016609",
+    "name": "Quicksilver, Sand Blue Torso",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016609.jpg"
+  },
+  {
+    "id": "fig-018202",
+    "name": "Raven Darkhölme / Mystique",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018202.jpg"
+  },
+  {
+    "id": "fig-011257",
+    "name": "Razor Fist",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011257.jpg"
+  },
+  {
+    "id": "fig-010691",
+    "name": "Red Guardian",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010691.jpg"
+  },
+  {
+    "id": "fig-015923",
+    "name": "Red Hulk",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015923.jpg"
+  },
+  {
+    "id": "fig-005343",
+    "name": "Red Hulk (Big Fig)",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005343.jpg"
+  },
+  {
+    "id": "fig-015681",
+    "name": "Red Hulk (Big Fig), Rotatable Head",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015681.jpg"
+  },
+  {
+    "id": "fig-005344",
+    "name": "Red She-Hulk",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005344.jpg"
+  },
+  {
+    "id": "fig-005042",
+    "name": "Red Skull",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005042.jpg"
+  },
+  {
+    "id": "fig-010251",
+    "name": "Red Skull",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010251.jpg"
+  },
+  {
+    "id": "fig-011613",
+    "name": "Red Skull",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011613.jpg"
+  },
+  {
+    "id": "fig-001013",
+    "name": "Red Skull with Short Legs",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001013.jpg"
+  },
+  {
+    "id": "fig-016409",
+    "name": "Reed Richards / Mr. Fantastic",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016409.jpg"
+  },
+  {
+    "id": "fig-018197",
+    "name": "Reed Richards / Mr. Fantastic, Long Legs",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018197.jpg"
+  },
+  {
+    "id": "fig-005604",
+    "name": "Rescue (Pepper Potts)",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005604.jpg"
+  },
+  {
+    "id": "fig-017276",
+    "name": "Rhino, Light Bluish Gray Horn",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017276.jpg"
+  },
+  {
+    "id": "fig-005070",
+    "name": "Rhino, No Helmet",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005070.jpg"
+  },
+  {
+    "id": "fig-012101",
+    "name": "Rhino, White Horn",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012101.jpg"
+  },
+  {
+    "id": "fig-017252",
+    "name": "Rhino, White Horn, Metallic Blue Chest Plate",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017252.jpg"
+  },
+  {
+    "id": "fig-005386",
+    "name": "Robber with Captain America Mask",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005386.jpg"
+  },
+  {
+    "id": "fig-005387",
+    "name": "Robber with Hulk Mask",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005387.jpg"
+  },
+  {
+    "id": "fig-011299",
+    "name": "Robbie Robertson",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011299.jpg"
+  },
+  {
+    "id": "fig-018204",
+    "name": "Robert Reynolds / Sentry",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018204.jpg"
+  },
+  {
+    "id": "fig-016638",
+    "name": "Rocket Raccoon, Dakr Blue Jumpsuit",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016638.jpg"
+  },
+  {
+    "id": "fig-013669",
+    "name": "Rocket Raccoon, Dark Blue Outfit, Reddish Brown Fur",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013669.jpg"
+  },
+  {
+    "id": "fig-011392",
+    "name": "Rocket Raccoon, Dark Bluish Gray Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011392.jpg"
+  },
+  {
+    "id": "fig-005340",
+    "name": "Rocket Raccoon in Dark Blue Outfit",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005340.jpg"
+  },
+  {
+    "id": "fig-000816",
+    "name": "Rocket Raccoon in Dark Red Outfit",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000816.jpg"
+  },
+  {
+    "id": "fig-005032",
+    "name": "Rocket Raccoon in Orange Outfit",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005032.jpg"
+  },
+  {
+    "id": "fig-014598",
+    "name": "Rocket Raccoon, Reddish Brown Arms",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014598.jpg"
+  },
+  {
+    "id": "fig-013382",
+    "name": "Rocket Raccoon, Tan Jacket",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013382.jpg"
+  },
+  {
+    "id": "fig-005585",
+    "name": "Rocket Raccoon, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005585.jpg"
+  },
+  {
+    "id": "fig-014574",
+    "name": "Rogue",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014574.jpg"
+  },
+  {
+    "id": "fig-005031",
+    "name": "Ronan The Accuser, Blue Skin",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005031.jpg"
+  },
+  {
+    "id": "fig-014599",
+    "name": "Ronan The Accuser, Dark Azure Skin",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014599.jpg"
+  },
+  {
+    "id": "fig-011306",
+    "name": "Ron Barney",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011306.jpg"
+  },
+  {
+    "id": "fig-015682",
+    "name": "Ruth Bat-Seraph",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015682.jpg"
+  },
+  {
+    "id": "fig-005398",
+    "name": "Sakaarian Guard",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005398.jpg"
+  },
+  {
+    "id": "fig-005069",
+    "name": "Sandman",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005069.jpg"
+  },
+  {
+    "id": "fig-017269",
+    "name": "Sandman, Sand Form",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017269.jpg"
+  },
+  {
+    "id": "fig-010830",
+    "name": "Sandman, Swirling Dirt Lower Body with Green Sweater",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010830.jpg"
+  },
+  {
+    "id": "fig-005494",
+    "name": "Sandman, Swirling Dirt Lower Body with Tan Sweater",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005494.jpg"
+  },
+  {
+    "id": "fig-005393",
+    "name": "Sandman with Short Legs",
+    "year": 2018,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005393.jpg"
+  },
+  {
+    "id": "fig-005326",
+    "name": "Scarlet Spider",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005326.jpg"
+  },
+  {
+    "id": "fig-005392",
+    "name": "Scarlet Spider with Short Legs",
+    "year": 2018,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005392.jpg"
+  },
+  {
+    "id": "fig-015928",
+    "name": "Scarlet Witch",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015928.jpg"
+  },
+  {
+    "id": "fig-014227",
+    "name": "Scarlet Witch, Skirt",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014227.jpg"
+  },
+  {
+    "id": "fig-011404",
+    "name": "Scarlet Witch, Smile",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011404.jpg"
+  },
+  {
+    "id": "fig-005303",
+    "name": "Scarlet Witch with Cloth Coattail",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005303.jpg"
+  },
+  {
+    "id": "fig-005066",
+    "name": "Scarlet Witch with Dark Red Jacket over Black Dress",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005066.jpg"
+  },
+  {
+    "id": "fig-012904",
+    "name": "Scarlet Witch, with Detailed Tiara",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012904.jpg"
+  },
+  {
+    "id": "fig-005327",
+    "name": "Scorpion",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005327.jpg"
+  },
+  {
+    "id": "fig-017672",
+    "name": "Scorpion, Dark Green Suit",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017672.jpg"
+  },
+  {
+    "id": "fig-005361",
+    "name": "Scorpion with Short Legs",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005361.jpg"
+  },
+  {
+    "id": "fig-018192",
+    "name": "Scott Summers / Cyclops",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018192.jpg"
+  },
+  {
+    "id": "fig-011807",
+    "name": "Sersi",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011807.jpg"
+  },
+  {
+    "id": "fig-011260",
+    "name": "Shang-Chi",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011260.jpg"
+  },
+  {
+    "id": "fig-005345",
+    "name": "She-Hulk",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005345.jpg"
+  },
+  {
+    "id": "fig-012279",
+    "name": "Sheriff Deadpool",
+    "year": 2018,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012279.jpg"
+  },
+  {
+    "id": "fig-005075",
+    "name": "SHIELD Agent",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005075.jpg"
+  },
+  {
+    "id": "fig-014431",
+    "name": "SHIELD Agent, Medium Brown Head",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014431.jpg"
+  },
+  {
+    "id": "fig-014432",
+    "name": "SHIELD Agent, Reddish Brown Head",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014432.jpg"
+  },
+  {
+    "id": "fig-005435",
+    "name": "Shuri",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005435.jpg"
+  },
+  {
+    "id": "fig-011411",
+    "name": "Shuri",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011411.jpg"
+  },
+  {
+    "id": "fig-013135",
+    "name": "Shuri, Black Panther Suit, Hair",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013135.jpg"
+  },
+  {
+    "id": "fig-013144",
+    "name": "Shuri, Black Panther Suit, Mask",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013144.jpg"
+  },
+  {
+    "id": "fig-012903",
+    "name": "Sinister Strange",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012903.jpg"
+  },
+  {
+    "id": "fig-002892",
+    "name": "Skeleton, Standard Face, Bent Arms, Vertical Hand Clips, 60115 Torso",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 17,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002892.jpg"
+  },
+  {
+    "id": "fig-005328",
+    "name": "Spider-Girl",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005328.jpg"
+  },
+  {
+    "id": "fig-005599",
+    "name": "Spider-Girl in Black and White Outfit",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005599.jpg"
+  },
+  {
+    "id": "fig-008921",
+    "name": "Spider-Ham",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008921.jpg"
+  },
+  {
+    "id": "fig-002205",
+    "name": "Spider-Man",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002205.jpg"
+  },
+  {
+    "id": "fig-001953",
+    "name": "Spider-Man",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 14,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001953.jpg"
+  },
+  {
+    "id": "fig-011284",
+    "name": "Spider-Man (2019 Comic Con Exclusive)",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011284.jpg"
+  },
+  {
+    "id": "fig-017271",
+    "name": "Spider-Man 2099",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017271.jpg"
+  },
+  {
+    "id": "fig-005495",
+    "name": "Spider-Man 2099, Bright Light Blue Dots",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005495.jpg"
+  },
+  {
+    "id": "fig-011804",
+    "name": "Spider-Man, Black and Red Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011804.jpg"
+  },
+  {
+    "id": "fig-011845",
+    "name": "Spider-Man, Black and Yellow Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011845.jpg"
+  },
+  {
+    "id": "fig-005581",
+    "name": "Spider-Man in Black and Gray Outfit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005581.jpg"
+  },
+  {
+    "id": "fig-000974",
+    "name": "Spider-Man in Black Symbiote Costume",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000974.jpg"
+  },
+  {
+    "id": "fig-014824",
+    "name": "Spider-Man, Medium Legs",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014824.jpg"
+  },
+  {
+    "id": "fig-017251",
+    "name": "Spider-Man, Medium Legs",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017251.jpg"
+  },
+  {
+    "id": "fig-017258",
+    "name": "Spider-Man, Medium Legs, Bicorn",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017258.jpg"
+  },
+  {
+    "id": "fig-005497",
+    "name": "Spider-Man (Miles Morales), Black Hands",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005497.jpg"
+  },
+  {
+    "id": "fig-015952",
+    "name": "Spider-Man (Miles Morales), Black Hands",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015952.jpg"
+  },
+  {
+    "id": "fig-014588",
+    "name": "Spider-Man (Miles Morales), Dark Red Hoodie",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014588.jpg"
+  },
+  {
+    "id": "fig-010825",
+    "name": "Spider-Man (Miles Morales), Dark Red Hoodie, Dual Molded Legs",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010825.jpg"
+  },
+  {
+    "id": "fig-017272",
+    "name": "Spider-Man (Miles Morales), Large Red Spider Symbol",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017272.jpg"
+  },
+  {
+    "id": "fig-013381",
+    "name": "Spider-Man (Miles Morales), Red Hands, Gray Face Webbing",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013381.jpg"
+  },
+  {
+    "id": "fig-005073",
+    "name": "Spider-Man (Miles Morales), Red Hands, Red Face Webbing",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005073.jpg"
+  },
+  {
+    "id": "fig-005597",
+    "name": "Spider-Man Noir without Shirt Tail",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005597.jpg"
+  },
+  {
+    "id": "fig-011793",
+    "name": "Spider-Man Noir with Shirt Tail",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011793.jpg"
+  },
+  {
+    "id": "fig-010827",
+    "name": "Spider-Man, Printed Arms",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 26,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010827.jpg"
+  },
+  {
+    "id": "fig-011242",
+    "name": "Spider-Man, Printed Arms, Red Boots",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011242.jpg"
+  },
+  {
+    "id": "fig-011846",
+    "name": "Spider-Man, Red, Black, and Gold Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011846.jpg"
+  },
+  {
+    "id": "fig-011690",
+    "name": "Spider-Man, SDCC Exclusive",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011690.jpg"
+  },
+  {
+    "id": "fig-012104",
+    "name": "Spider-Man (Spidey), Medium Legs",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012104.jpg"
+  },
+  {
+    "id": "fig-015914",
+    "name": "Spider-Man (Spidey), Medium Legs, Lime Spider Print",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015914.jpg"
+  },
+  {
+    "id": "fig-013526",
+    "name": "Spider-Man (Spidey), Medium Legs, White Spider Print",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013526.jpg"
+  },
+  {
+    "id": "fig-017666",
+    "name": "Spider-Man, Suit with Bue 'Ribs', Plain Legs",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017666.jpg"
+  },
+  {
+    "id": "fig-015929",
+    "name": "Spider-Man, Suit with Detailed Black Trim, Plain Legs",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015929.jpg"
+  },
+  {
+    "id": "fig-012902",
+    "name": "Spider-Man, Suit with Detailed Black Trim, Printed Legs",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012902.jpg"
+  },
+  {
+    "id": "fig-016618",
+    "name": "Spider-Man, Torn Suit",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016618.jpg"
+  },
+  {
+    "id": "fig-005490",
+    "name": "Spider-Man with Blue Around Eyes",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 7,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005490.jpg"
+  },
+  {
+    "id": "fig-005566",
+    "name": "Spider-Man with Dark Red Webbing and Plain Blue Legs",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 6,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005566.jpg"
+  },
+  {
+    "id": "fig-004611",
+    "name": "Spider-Man with Dual Molded Legs with Red Boots",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 4,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004611.jpg"
+  },
+  {
+    "id": "fig-005072",
+    "name": "Spider-Man with Plain Dual Molded Blue and Red Legs",
+    "year": 2015,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005072.jpg"
+  },
+  {
+    "id": "fig-005371",
+    "name": "Spider-Man with Short Legs",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005371.jpg"
+  },
+  {
+    "id": "fig-005362",
+    "name": "Spider-Man with Short Legs, Winking",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005362.jpg"
+  },
+  {
+    "id": "fig-016613",
+    "name": "Spider-Woman",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016613.jpg"
+  },
+  {
+    "id": "fig-015920",
+    "name": "Spider-Woman (Julia Carpenter)",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015920.jpg"
+  },
+  {
+    "id": "fig-011689",
+    "name": "Spider-Woman, SDCC Exclusive",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011689.jpg"
+  },
+  {
+    "id": "fig-013530",
+    "name": "Spin / Spider-Man (Miles Morales), Medium Black Legs",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013530.jpg"
+  },
+  {
+    "id": "fig-015913",
+    "name": "Spin / Spider-Man (Miles Morales), Medium Black Legs, Lime Spider",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015913.jpg"
+  },
+  {
+    "id": "fig-012099",
+    "name": "Spin / Spider-Man (Miles Morales), Medium Red Legs",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012099.jpg"
+  },
+  {
+    "id": "fig-013583",
+    "name": "Spin / Spider-Man (Miles Morales), Medium Red Legs, Bubble Helmet",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013583.jpg"
+  },
+  {
+    "id": "fig-011814",
+    "name": "Sprite",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011814.jpg"
+  },
+  {
+    "id": "fig-005391",
+    "name": "Star-Lord in Dark Bluish Gray and Silver Outfit with Hair",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005391.jpg"
+  },
+  {
+    "id": "fig-005030",
+    "name": "Star-Lord in Dark Red Outfit with Mask",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005030.jpg"
+  },
+  {
+    "id": "fig-005035",
+    "name": "Star-Lord in Dark Red Outfit with Open Jacket and Mask",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005035.jpg"
+  },
+  {
+    "id": "fig-005355",
+    "name": "Star-Lord in Dark Red Outfit with Open Jacket and Neck Bracket",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005355.jpg"
+  },
+  {
+    "id": "fig-015360",
+    "name": "Star-Lord (Peter Quill)",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015360.jpg"
+  },
+  {
+    "id": "fig-011399",
+    "name": "Star-Lord (Peter Quill), Black Boots",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011399.jpg"
+  },
+  {
+    "id": "fig-013662",
+    "name": "Star-Lord (Peter Quill), Dark Blue Outfit",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013662.jpg"
+  },
+  {
+    "id": "fig-005429",
+    "name": "Star-Lord (Peter Quill) in Dark Red Jacket",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005429.jpg"
+  },
+  {
+    "id": "fig-005425",
+    "name": "Star-Lord with Short Legs",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005425.jpg"
+  },
+  {
+    "id": "fig-011614",
+    "name": "Steve Rogers",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011614.jpg"
+  },
+  {
+    "id": "fig-011679",
+    "name": "Steve Rogers Captain America (SDCC 2016)",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011679.jpg"
+  },
+  {
+    "id": "fig-005025",
+    "name": "Storm",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005025.jpg"
+  },
+  {
+    "id": "fig-015604",
+    "name": "Storm, White Suit, Umber Brown Head",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015604.jpg"
+  },
+  {
+    "id": "fig-005349",
+    "name": "Super-Adaptoid",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005349.jpg"
+  },
+  {
+    "id": "fig-016407",
+    "name": "Susan Storm / Invisible Woman",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016407.jpg"
+  },
+  {
+    "id": "fig-005583",
+    "name": "Talos (Skrull)",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005583.jpg"
+  },
+  {
+    "id": "fig-017667",
+    "name": "Tarantula (Marvel)",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017667.jpg"
+  },
+  {
+    "id": "fig-005341",
+    "name": "Taserface",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005341.jpg"
+  },
+  {
+    "id": "fig-010690",
+    "name": "Taskmaster",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010690.jpg"
+  },
+  {
+    "id": "fig-008302",
+    "name": "Taskmaster, Hood",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008302.jpg"
+  },
+  {
+    "id": "fig-005039",
+    "name": "Taskmaster (Tony Masters), White Cape and Hood",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005039.jpg"
+  },
+  {
+    "id": "fig-011307",
+    "name": "Taxi Driver Bernie",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011307.jpg"
+  },
+  {
+    "id": "fig-014225",
+    "name": "Thanos, Big Fig Head, Angry (Big Fig)",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014225.jpg"
+  },
+  {
+    "id": "fig-011408",
+    "name": "Thanos, Big Fig Head, Mean Grin (Big Fig)",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011408.jpg"
+  },
+  {
+    "id": "fig-016640",
+    "name": "Thanos, Dark Blue and Gold Outfit, Dark Blue Arms",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016640.jpg"
+  },
+  {
+    "id": "fig-014184",
+    "name": "Thanos, Dark Blue and Gold Outfit, Gold Helmet",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014184.jpg"
+  },
+  {
+    "id": "fig-013383",
+    "name": "Thanos, Dark Blue and Gold Outfit, Medium Lavender Arms",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013383.jpg"
+  },
+  {
+    "id": "fig-016226",
+    "name": "Thanos, Gold Shoulder Guard",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016226.jpg"
+  },
+  {
+    "id": "fig-005592",
+    "name": "Thanos in Dark Blue and Gold Outfit",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005592.jpg"
+  },
+  {
+    "id": "fig-011095",
+    "name": "Thanos in Dark Blue and Gold Outfit (Plain Legs)",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011095.jpg"
+  },
+  {
+    "id": "fig-011841",
+    "name": "Thanos, Pearl Gold Armor",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011841.jpg"
+  },
+  {
+    "id": "fig-005310",
+    "name": "Thanos with Dark Blue Arms (Big Fig)",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005310.jpg"
+  },
+  {
+    "id": "fig-005572",
+    "name": "Thanos with Gold Armor on Arms (Big Fig)",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005572.jpg"
+  },
+  {
+    "id": "fig-005426",
+    "name": "Thanos with Medium Lavender Arms (Big Fig)",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005426.jpg"
+  },
+  {
+    "id": "fig-005360",
+    "name": "Thanos with Short Legs",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005360.jpg"
+  },
+  {
+    "id": "fig-014218",
+    "name": "The Amazing Spider-Man",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014218.jpg"
+  },
+  {
+    "id": "fig-005330",
+    "name": "The Ancient One",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005330.jpg"
+  },
+  {
+    "id": "fig-000279",
+    "name": "The Collector",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000279.jpg"
+  },
+  {
+    "id": "fig-014596",
+    "name": "The Lizard",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014596.jpg"
+  },
+  {
+    "id": "fig-005018",
+    "name": "The Mandarin",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005018.jpg"
+  },
+  {
+    "id": "fig-004887",
+    "name": "The Mandarin with Dark Green Cape",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004887.jpg"
+  },
+  {
+    "id": "fig-011809",
+    "name": "Thena",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011809.jpg"
+  },
+  {
+    "id": "fig-011310",
+    "name": "The Punisher",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011310.jpg"
+  },
+  {
+    "id": "fig-005028",
+    "name": "The Sakaaran",
+    "year": 2014,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005028.jpg"
+  },
+  {
+    "id": "fig-005384",
+    "name": "The Shocker",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005384.jpg"
+  },
+  {
+    "id": "fig-015915",
+    "name": "The Spot",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015915.jpg"
+  },
+  {
+    "id": "fig-016406",
+    "name": "The Thing / Benjamin Grimm",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016406.jpg"
+  },
+  {
+    "id": "fig-018193",
+    "name": "The Thing / Benjamin Grimm, Shorts",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018193.jpg"
+  },
+  {
+    "id": "fig-014443",
+    "name": "The Wasp (Hope van Dyne), Foil Wings",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014443.jpg"
+  },
+  {
+    "id": "fig-001816",
+    "name": "The Wasp (Hope van Dyne) with Trans-Medium Blue Wings",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001816.jpg"
+  },
+  {
+    "id": "fig-011609",
+    "name": "The Watcher",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Civilian",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011609.jpg"
+  },
+  {
+    "id": "fig-018199",
+    "name": "Thor, Bare Arms",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018199.jpg"
+  },
+  {
+    "id": "fig-011616",
+    "name": "Thor (Bro Thor / Fat Thor)",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011616.jpg"
+  },
+  {
+    "id": "fig-015968",
+    "name": "Thor, Dark Tan Hair, Fabric Cape",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015968.jpg"
+  },
+  {
+    "id": "fig-016639",
+    "name": "Thor, Dark Tan Hair, Rubber Cape",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016639.jpg"
+  },
+  {
+    "id": "fig-010823",
+    "name": "Thor, Flat Silver Helmet",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010823.jpg"
+  },
+  {
+    "id": "fig-011395",
+    "name": "Thor, Long Dark Tan Hair",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011395.jpg"
+  },
+  {
+    "id": "fig-012573",
+    "name": "Thor, Long Hair, Blue Suit",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012573.jpg"
+  },
+  {
+    "id": "fig-009582",
+    "name": "Thor, Red Cape, Tan Hair",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009582.jpg"
+  },
+  {
+    "id": "fig-015354",
+    "name": "Thor, Rubber Cape",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015354.jpg"
+  },
+  {
+    "id": "fig-015393",
+    "name": "Thor, Rubber Cape",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015393.jpg"
+  },
+  {
+    "id": "fig-012329",
+    "name": "Thor, Tan Hair, Black Armor, Red Cape",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012329.jpg"
+  },
+  {
+    "id": "fig-014430",
+    "name": "Thor, Tan Hair, Black Armor, Red Cape",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014430.jpg"
+  },
+  {
+    "id": "fig-005586",
+    "name": "Thor, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005586.jpg"
+  },
+  {
+    "id": "fig-005437",
+    "name": "Thor with 6 Silver Circles on Chest and Medium Nougat Hair",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005437.jpg"
+  },
+  {
+    "id": "fig-005394",
+    "name": "Thor with Blue Scabbard",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005394.jpg"
+  },
+  {
+    "id": "fig-002568",
+    "name": "Thor with Helmet",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002568.jpg"
+  },
+  {
+    "id": "fig-005040",
+    "name": "Thor with No Beard",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005040.jpg"
+  },
+  {
+    "id": "fig-005058",
+    "name": "Thor with Plain Dark Blue Legs",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005058.jpg"
+  },
+  {
+    "id": "fig-005591",
+    "name": "Thor with Printed Cape Front and Pearl Dark Gray Legs",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005591.jpg"
+  },
+  {
+    "id": "fig-001415",
+    "name": "Thor with Red Cape and Bright Yellow Hair",
+    "year": 2012,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-001415.jpg"
+  },
+  {
+    "id": "fig-005423",
+    "name": "Thor with Short Legs",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005423.jpg"
+  },
+  {
+    "id": "fig-017674",
+    "name": "Tombstone",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017674.jpg"
+  },
+  {
+    "id": "fig-011608",
+    "name": "Tony Stark",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011608.jpg"
+  },
+  {
+    "id": "fig-004889",
+    "name": "Tony Stark in Black Shirt with Chest Arc Reactor",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004889.jpg"
+  },
+  {
+    "id": "fig-010278",
+    "name": "Tony Stark, Light Bluish Grey Shirt",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010278.jpg"
+  },
+  {
+    "id": "fig-014446",
+    "name": "Tony Stark, Neck Bracket",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014446.jpg"
+  },
+  {
+    "id": "fig-014433",
+    "name": "Tony Stark, SHIELD Agent Disguise",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014433.jpg"
+  },
+  {
+    "id": "fig-002012",
+    "name": "Tony Stark Transforming into Iron Man, Black Torso",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002012.jpg"
+  },
+  {
+    "id": "fig-013192",
+    "name": "Tony Stark Transforming into Iron Man, Dark Bluish Grey Torso",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-013192.jpg"
+  },
+  {
+    "id": "fig-015910",
+    "name": "Trapster",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015910.jpg"
+  },
+  {
+    "id": "fig-011100",
+    "name": "Ultimate Spider-Man",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011100.jpg"
+  },
+  {
+    "id": "fig-015925",
+    "name": "Ultron",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015925.jpg"
+  },
+  {
+    "id": "fig-016608",
+    "name": "Ultron",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016608.jpg"
+  },
+  {
+    "id": "fig-017702",
+    "name": "Ultron (Iron Man and His Awesome Friends)",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017702.jpg"
+  },
+  {
+    "id": "fig-014436",
+    "name": "Ultron Mark 1, Dark Blue Head",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014436.jpg"
+  },
+  {
+    "id": "fig-005067",
+    "name": "Ultron Mark 1, Trans-Clear Head",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005067.jpg"
+  },
+  {
+    "id": "fig-005065",
+    "name": "Ultron Prime",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005065.jpg"
+  },
+  {
+    "id": "fig-005054",
+    "name": "Ultron Sentry",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005054.jpg"
+  },
+  {
+    "id": "fig-005055",
+    "name": "Ultron Sentry Officer",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005055.jpg"
+  },
+  {
+    "id": "fig-005616",
+    "name": "Ultron Sentry with Neck Armor",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005616.jpg"
+  },
+  {
+    "id": "fig-005063",
+    "name": "Ultron / Ultimate Ultron",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005063.jpg"
+  },
+  {
+    "id": "fig-005370",
+    "name": "Ultron with Short Legs",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005370.jpg"
+  },
+  {
+    "id": "fig-005441",
+    "name": "Ulysses Klaue",
+    "year": 2018,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005441.jpg"
+  },
+  {
+    "id": "fig-002567",
+    "name": "Valkyrie",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002567.jpg"
+  },
+  {
+    "id": "fig-014226",
+    "name": "Valkyrie, Light Bluish Gray Outfit, Blue Cape",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014226.jpg"
+  },
+  {
+    "id": "fig-011610",
+    "name": "Valkyrie, Pearl Dark Gray Outfit",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011610.jpg"
+  },
+  {
+    "id": "fig-017904",
+    "name": "Venom",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017904.jpg"
+  },
+  {
+    "id": "fig-010396",
+    "name": "Venom, Arms on Back",
+    "year": 2020,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-010396.jpg"
+  },
+  {
+    "id": "fig-017268",
+    "name": "Venom, Black Tentacles, Tan Teeth",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017268.jpg"
+  },
+  {
+    "id": "fig-014601",
+    "name": "Venom Doc Ock",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014601.jpg"
+  },
+  {
+    "id": "fig-016198",
+    "name": "Venom Doc Ock",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016198.jpg"
+  },
+  {
+    "id": "fig-014595",
+    "name": "Venom Green Goblin",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014595.jpg"
+  },
+  {
+    "id": "fig-017274",
+    "name": "Venomized Captain America",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017274.jpg"
+  },
+  {
+    "id": "fig-014259",
+    "name": "Venom, Open Mouth, Tentacles",
+    "year": 2023,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014259.jpg"
+  },
+  {
+    "id": "fig-011308",
+    "name": "Venom, Two Long and Two Short Tentacles",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011308.jpg"
+  },
+  {
+    "id": "fig-004897",
+    "name": "Venom with Black Tentacles",
+    "year": 2013,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004897.jpg"
+  },
+  {
+    "id": "fig-005492",
+    "name": "Venom with Open Mouth",
+    "year": 2019,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 9,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005492.jpg"
+  },
+  {
+    "id": "fig-011080",
+    "name": "Venom with Two Different Tentacles",
+    "year": 2021,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011080.jpg"
+  },
+  {
+    "id": "fig-015919",
+    "name": "Venom with Two Identical Tentacles",
+    "year": 2025,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015919.jpg"
+  },
+  {
+    "id": "fig-014439",
+    "name": "Vision, Tran-Light Blue Legs",
+    "year": 2023,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014439.jpg"
+  },
+  {
+    "id": "fig-005061",
+    "name": "Vision with Infinity Stone on Forehead",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005061.jpg"
+  },
+  {
+    "id": "fig-002206",
+    "name": "Vision with Yellow Cape",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-002206.jpg"
+  },
+  {
+    "id": "fig-005601",
+    "name": "Vulture in Dark Green Outfit with Lime Wings",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005601.jpg"
+  },
+  {
+    "id": "fig-005493",
+    "name": "Vulture in Dark Green Outfit with Neck Bracket",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005493.jpg"
+  },
+  {
+    "id": "fig-005336",
+    "name": "Vulture in Green Outfit",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005336.jpg"
+  },
+  {
+    "id": "fig-011844",
+    "name": "Vulture, Reddish Brown Jacket, Black Helmet",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011844.jpg"
+  },
+  {
+    "id": "fig-005385",
+    "name": "Vulture with Black Jacket with Fur Collar",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005385.jpg"
+  },
+  {
+    "id": "fig-004890",
+    "name": "War Machine",
+    "year": 2013,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004890.jpg"
+  },
+  {
+    "id": "fig-016237",
+    "name": "War Machine, Black Neck Bracket",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016237.jpg"
+  },
+  {
+    "id": "fig-012854",
+    "name": "War Machine, Black Outfit with 2 Neck Brackets",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012854.jpg"
+  },
+  {
+    "id": "fig-009398",
+    "name": "War Machine, Black Outfit with Neck Bracket",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-009398.jpg"
+  },
+  {
+    "id": "fig-012659",
+    "name": "War Machine, Dark Bluish Gray Neck Bracket",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012659.jpg"
+  },
+  {
+    "id": "fig-005302",
+    "name": "War Machine Mark 3, Red Eyes",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005302.jpg"
+  },
+  {
+    "id": "fig-014629",
+    "name": "War Machine, Pearl Titanium Armor",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014629.jpg"
+  },
+  {
+    "id": "fig-014730",
+    "name": "War Machine, Trans-Clear Neck Bracket, Dark Bluish Gray Hands",
+    "year": 2024,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014730.jpg"
+  },
+  {
+    "id": "fig-016655",
+    "name": "War Machine, Trans-Clear Neck Bracket, Pearl Titanium Hands",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-016655.jpg"
+  },
+  {
+    "id": "fig-005468",
+    "name": "War Machine, White Advanced Tech (Quantum) Suit",
+    "year": 2019,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005468.jpg"
+  },
+  {
+    "id": "fig-011259",
+    "name": "Wenwu",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011259.jpg"
+  },
+  {
+    "id": "fig-012658",
+    "name": "Whiplash",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012658.jpg"
+  },
+  {
+    "id": "fig-005335",
+    "name": "White Tiger",
+    "year": 2016,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005335.jpg"
+  },
+  {
+    "id": "fig-000463",
+    "name": "Winter Soldier",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-000463.jpg"
+  },
+  {
+    "id": "fig-017694",
+    "name": "Winter Soldier, Black Eyes",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017694.jpg"
+  },
+  {
+    "id": "fig-015931",
+    "name": "Winter Soldier, Black Suit",
+    "year": 2025,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015931.jpg"
+  },
+  {
+    "id": "fig-005224",
+    "name": "Winter Soldier with Black Hands",
+    "year": 2016,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005224.jpg"
+  },
+  {
+    "id": "fig-004583",
+    "name": "Wolverine",
+    "year": 2012,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-004583.jpg"
+  },
+  {
+    "id": "fig-015611",
+    "name": "Wolverine, Hair, Yellow X-Men Suit, Plain Arms",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-015611.jpg"
+  },
+  {
+    "id": "fig-012415",
+    "name": "Wolverine, Mask, Blue Hands",
+    "year": 2022,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012415.jpg"
+  },
+  {
+    "id": "fig-005023",
+    "name": "Wolverine, Mask, Dark Brown Hands",
+    "year": 2014,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 2,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005023.jpg"
+  },
+  {
+    "id": "fig-014565",
+    "name": "Wolverine, Mask, Yellow X-Men Suit, Plain Arms",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014565.jpg"
+  },
+  {
+    "id": "fig-017247",
+    "name": "Wolverine, Venomized",
+    "year": 2026,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-017247.jpg"
+  },
+  {
+    "id": "fig-005357",
+    "name": "Wolverine with Short Legs",
+    "year": 2017,
+    "universe": "Comics",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005357.jpg"
+  },
+  {
+    "id": "fig-011847",
+    "name": "Wong, Black Hair",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011847.jpg"
+  },
+  {
+    "id": "fig-012091",
+    "name": "Wong, Dark Purple Outfit",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012091.jpg"
+  },
+  {
+    "id": "fig-012898",
+    "name": "Wong, Plain Legs",
+    "year": 2022,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 3,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-012898.jpg"
+  },
+  {
+    "id": "fig-011261",
+    "name": "Xialing",
+    "year": 2021,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-011261.jpg"
+  },
+  {
+    "id": "fig-008301",
+    "name": "Yelena Belova",
+    "year": 2020,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-008301.jpg"
+  },
+  {
+    "id": "fig-018205",
+    "name": "Yelena Belova / Black Widow",
+    "year": 2026,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-018205.jpg"
+  },
+  {
+    "id": "fig-005097",
+    "name": "Yellow Jacket",
+    "year": 2015,
+    "universe": "MCU",
+    "role": "Villain",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005097.jpg"
+  },
+  {
+    "id": "fig-005356",
+    "name": "Yondu",
+    "year": 2017,
+    "universe": "MCU",
+    "role": "Hero",
+    "legs": "Yes",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-005356.jpg"
+  },
+  {
+    "id": "fig-014828",
+    "name": "Zola",
+    "year": 2024,
+    "universe": "Comics",
+    "role": "Villain",
+    "legs": "No",
+    "sets": 1,
+    "image": "https://cdn.rebrickable.com/media/sets/fig-014828.jpg"
+  }
+]
