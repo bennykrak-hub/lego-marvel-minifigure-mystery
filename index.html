@@ -81,7 +81,6 @@ function showEnd(){
   els.endTitle.textContent=won
     ?(mode==='daily'?'You’re a true LEGO Marvel expert!':'You found the mystery minifigure!')
     :'Game over';
-
   const answerLine=`The answer was ${answer.name}${answer.year?' ('+answer.year+')':''}.`;
   const resultLine=won
     ?'Solved in '+guesses.length+' '+(guesses.length===1?'guess':'guesses')+'.'
@@ -93,7 +92,7 @@ function showEnd(){
   els.newPractice.style.display=mode==='practice'?'inline-block':'none';
   els.guess.disabled=true;
   els.search.disabled=true;
-}const won=guesses.some(g=>g.id===answer.id);els.endTitle.textContent=won?'You found the mystery minifigure!':'Game over';els.endText.textContent=`The answer was ${answer.name}${answer.year?' ('+answer.year+')':''}. ${won?'Solved in '+guesses.length+' '+(guesses.length===1?'guess':'guesses')+'.':'Try another practice round to keep playing.'}`;els.newPractice.style.display=mode==='practice'?'inline-block':'none';els.guess.disabled=true;els.search.disabled=true;}
+}
 function shareText(){const won=guesses.some(g=>g.id===answer.id);let s=`Marvel Minifigure Mystery · ${dailyDate}\n${won?guesses.length+'/8':'X/8'}\n`;guesses.forEach(g=>{const cs=clues(g,answer);s+=cs.map(c=>c.status==='good'?'🟩':c.status==='partial'?'🟨':c.status==='bad'?'🟥':'⬜').join('')+'\n'});s+='Play: https://bennyrak-hub.github.io/lego-marvel-minifigure-mystery/';return s}
 async function share(){const txt=shareText();try{if(navigator.share)await navigator.share({text:txt});else if(navigator.clipboard&&navigator.clipboard.writeText){await navigator.clipboard.writeText(txt);showNotice('Result copied to clipboard!')}else{window.prompt('Copy your result:',txt)}}catch(e){if(e.name!=='AbortError')showNotice('Could not share automatically. You can copy the result from the prompt.')}}
 function newPractice(){setMode('practice');answer=figures[Math.floor(Math.random()*figures.length)];els.search.disabled=false;els.search.focus()}
