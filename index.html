@@ -25,8 +25,19 @@ main{max-width:900px;margin:20px auto;padding:0 14px 38px}.topbar{display:flex;j
 <div class="game-title"><h1>Guess the minifigure</h1><p>Choose a figure from the catalogue. Each guess reveals clues.</p></div>
 <div class="attempts" id="attemptDots" aria-label="Eight guesses"></div><div class="attempt-count" id="attemptCount">8 attempts remaining</div>
 <div class="search-wrap"><div class="search-row"><input id="figureSearch" type="text" autocomplete="off" placeholder="Search a minifigure…" aria-label="Search minifigures"><button class="primary" id="guessButton" type="button" disabled>Guess</button></div><div class="suggestions" id="suggestions" role="listbox"></div></div>
-<div class="search-hint">Type a name and select the exact variant from the list. Guessed figures are removed.</div><div class="notice" id="notice" role="status"></div>
-<div class="end-panel" id="endPanel"><div class="board-wrap"><div class="board" id="board"><div class="loading">Loading minifigure catalogue…</div></div></div>
+<div class="search-hint">Type a name and select the exact variant from the list. Guessed figures are removed.</div>
+ <div class="notice" id="notice" role="status"></div>
+<div class="end-panel" id="endPanel">
+ <img id="answerImage" class="answer-image" alt="Mystery minifigure">
+  <h2 id="endTitle"></h2>
+  <p id="endText"></p>
+  <div class="end-actions">
+    <button class="secondary" id="shareButton" type="button">Share result</button>
+    <button class="secondary" id="newPracticeButton" type="button" style="display:none">Another practice round</button>
+  </div>
+</div>
+ <div class="board-wrap"><div class="board" id="board">
+ <div class="loading">Loading minifigure catalogue…</div></div></div>
 <img id="answerImage" class="answer-image" alt="Mystery minifigure"><h2 id="endTitle"></h2><p id="endText"></p><div class="end-actions"><button class="secondary" id="shareButton" type="button">Share result</button><button class="secondary" id="newPracticeButton" type="button" style="display:none">Another practice round</button></div></div>
 <div class="info"><h2>How to read the clues</h2><div class="legend"><span><i class="swatch green"></i>Exact match</span><span><i class="swatch yellow"></i>Close</span><span><i class="swatch red"></i>Different</span><span><i class="swatch gray"></i>Not in catalogue</span></div><p>Year: yellow means within 2 years. ↑ means the mystery figure is newer; ↓ means older. Set count uses a close range of 1 set. Blank catalogue data shows as a dash and is not scored.</p></div>
 </section>
